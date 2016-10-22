@@ -2065,7 +2065,7 @@ table.hover tr:nth-of-type(even):hover { background-color: #ececec; }
 
 .long-delay { animation-delay: 700ms !important; }
 
-@font-face { font-family: 'AvenirNext Regular'; src: url("{{ cdn }}/fonts/avenir-next/400/avenir-next.eot"); /* IE9 Compat Modes */ src: url("{{ cdn }}/fonts/avenir-next/400/avenir-next.eot?#iefix") format("embedded-opentype"), url("{{ cdn }}/fonts/avenir-next/400/avenir-next.woff") format("woff"), url("{{ cdn }}/fonts/avenir-next/400/avenir-next.ttf") format("truetype"), url("{{ cdn }}/fonts/avenir-next/400/avenir-next.svg#fa20c367c6a148cda65f50238befb5f2") format("svg"); /* Legacy iOS */ font-style: normal; font-weight: 400; }
+@font-face { font-family: 'AvenirNext Regular'; src: url("/fonts/avenir-next/400/avenir-next.eot"); /* IE9 Compat Modes */ src: url("/fonts/avenir-next/400/avenir-next.eot?#iefix") format("embedded-opentype"), url("/fonts/avenir-next/400/avenir-next.woff") format("woff"), url("/fonts/avenir-next/400/avenir-next.ttf") format("truetype"), url("/fonts/avenir-next/400/avenir-next.svg#fa20c367c6a148cda65f50238befb5f2") format("svg"); /* Legacy iOS */ font-style: normal; font-weight: 400; }
 
 h1, h2 { letter-spacing: -0.5; }
 
