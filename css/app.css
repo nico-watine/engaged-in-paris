@@ -2067,6 +2067,18 @@ table.hover tr:nth-of-type(even):hover { background-color: #ececec; }
 
 @font-face { font-family: 'AvenirNext Regular'; src: url("{{ cdn }}/fonts/avenir-next/400/avenir-next.eot"); /* IE9 Compat Modes */ src: url("{{ cdn }}/fonts/avenir-next/400/avenir-next.eot?#iefix") format("embedded-opentype"), url("{{ cdn }}/fonts/avenir-next/400/avenir-next.woff") format("woff"), url("{{ cdn }}/fonts/avenir-next/400/avenir-next.ttf") format("truetype"), url("{{ cdn }}/fonts/avenir-next/400/avenir-next.svg#fa20c367c6a148cda65f50238befb5f2") format("svg"); /* Legacy iOS */ font-style: normal; font-weight: 400; }
 
+h1, h2 { letter-spacing: -0.5; }
+
+h5, h6 { letter-spacing: 0.0625rem; text-transform: uppercase; }
+
+h1.heading, h2.heading { letter-spacing: 0.09375rem; }
+
+h3.heading, h4.heading { letter-spacing: 0.0625rem; }
+
+.heading { font-family: "Playfair Display SC", serif; font-weight: 400; }
+
+.heading.bold { font-weight: 700; }
+
 .p-0 { padding: 0; }
 
 .m-0 { margin: 0; }
