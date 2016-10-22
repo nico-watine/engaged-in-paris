@@ -2079,6 +2079,8 @@ h3.heading, h4.heading { letter-spacing: 0.0625rem; }
 
 .heading.bold { font-weight: 700; }
 
+.contrast * { color: #fff; text-shadow: 0 0.125rem 0.25rem #000; }
+
 .p-0 { padding: 0; }
 
 .m-0 { margin: 0; }
