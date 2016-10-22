@@ -1,5 +1,6 @@
 @charset "UTF-8";
 /** Foundation for Sites by ZURB Version 6.2.3 foundation.zurb.com Licensed under MIT Open Source */
+@import url("http://fonts.googleapis.com/css?family=Playfair+Display+SC:400,700");
 .slide-in-down.mui-enter { transition-duration: 500ms; transition-timing-function: linear; transform: translateY(-100%); transition-property: transform, opacity; backface-visibility: hidden; }
 
 .slide-in-down.mui-enter.mui-enter-active { transform: translateY(0); }
