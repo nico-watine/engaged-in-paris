@@ -2081,6 +2081,16 @@ h3.heading, h4.heading { letter-spacing: 0.0625rem; }
 
 .contrast * { color: #fff; text-shadow: 0 0.125rem 0.25rem #000; }
 
+.splash-landing { position: relative; box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); }
+
+.splash-landing h1 { font-size: 6.875rem; line-height: 1; margin: -1.25rem 0 0 1.5625rem; position: absolute; top: 50%; transform: translateY(-50%); }
+
+@media only screen and (max-width: 56.250em) { .splash-landing h1 { font-size: 5rem; width: 100%; text-align: center; margin: 0; } }
+
+@media only screen and (max-width: 37.500em) { .splash-landing h1 { font-size: 3.4375rem; padding: 0 1rem; } }
+
+@media only screen and (max-width: 26.250em) { .splash-landing h1 { font-size: 2.5rem; } }
+
 .p-0 { padding: 0; }
 
 .m-0 { margin: 0; }

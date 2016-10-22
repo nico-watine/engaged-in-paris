@@ -1,0 +1,51 @@
+@import "../_settings.scss";
+
+$max-900: "only screen and (max-width : 56.250em)";
+$max-600: "only screen and (max-width : 37.500em)";
+$max-420: "only screen and (max-width : 26.250em)";
+
+.splash-landing {
+	position: relative;
+	box-shadow: $z-3;
+
+	h1 {
+		font-size: rem(110);
+		line-height: 1;
+		margin: rem(-20) 0 0 rem(25);
+
+		@include vertical-center;
+	}
+}
+
+
+@media #{$max-900} {
+	.splash-landing {
+
+		h1 {
+			font-size: rem(80);
+			width: 100%;
+			text-align: center;
+			margin: 0;
+		}
+	}
+}
+
+@media #{$max-600} {
+	.splash-landing {
+
+		h1 {
+			font-size: rem(55);
+			padding: 0 rem(16);
+		}
+	}	
+}
+
+@media #{$max-420} {
+	.splash-landing {
+
+		h1 {
+			font-size: rem(40);
+		}
+	}
+}
+
