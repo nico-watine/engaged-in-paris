@@ -2077,7 +2077,7 @@ h3.heading, h4.heading { letter-spacing: 0.0625rem; }
 
 .heading { font-family: "Playfair Display SC", serif; font-weight: 400; }
 
-.heading.bold { font-weight: 700; }
+.heading-bold { font-weight: 700; }
 
 .contrast * { color: #fff; text-shadow: 0 0.125rem 0.25rem #000; }
 

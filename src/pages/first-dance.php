@@ -9,7 +9,7 @@ body-id: first-dance
 body-class: first-dance
 ---
 <section class="splash-landing contrast">
-	<h1 class="heading bold">First Dance</h1>
+	<h1 class="heading heading-bold">First Dance</h1>
 	<img src="{{ cdn }}/img/first-dance/splash/1920w.jpg" alt="Nico &amp; Corinne bustin' a mooooove">
 </section>
 <section class="video-container">
