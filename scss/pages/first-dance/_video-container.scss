@@ -1,0 +1,38 @@
+@import "../../_settings.scss";
+
+#first-dance {
+
+	.video-container {
+		background: rgba(68,68,68,0.80);
+		border-bottom: rem(8) solid #F6C949;
+		margin-bottom: rem(70);
+
+		.row {
+			background: url('#{$url}/img/first-dance/video/swirl_2x.png') 20px 0/200px auto no-repeat;
+			padding: rem(50) 0;
+
+			.video-wrapper {
+				.iframe-wrapper {
+					background: #fff url('#{$url}/img/first-dance/video/video-thumb.jpg') center center/cover no-repeat;
+					width: 100%;
+					position: relative;
+					padding-bottom: 56.25%;
+					height: 0;
+					overflow: hidden;
+					border: em(5) solid #fff;
+					box-shadow: $z-3;
+
+					iframe {
+						width: 100%;
+						height: 100%;
+						top: 0;
+						left: 0;
+						position: absolute;
+					}
+				}
+			}
+		}
+	}
+}
+
+

@@ -14,8 +14,8 @@ body-class: first-dance
 </section>
 <section class="video-container">
 	<div class="row">
-		<div class="video-wrapper medium-10 medium-push-1 large-8 large-push-2 columns">
-			<div class="iframe-wrapper">
+		<div class="medium-10 medium-push-1 large-8 large-push-2 columns">
+			<div class="iframe-wrapper" id="first-dance-video-embed">
 				<iframe src="https://www.youtube.com/embed/EnB86TDmzvY?rel=0" frameborder="0" allowfullscreen></iframe>
 			</div>
 		</div>

@@ -71,9 +71,11 @@
 @import "blocks/_main.scss";
 @import "blocks/_footer.scss";
 @import "blocks/_splash-landing.scss";
+@import "blocks/_video-container.scss";
 
 // #3 SPECIFIC PAGE STYLES
 @import "pages/index/_index.scss";
+@import "pages/first-dance/_first-dance.scss";
 
 // #4 MISC COMPONENTS
 @import "components/_extras.scss";

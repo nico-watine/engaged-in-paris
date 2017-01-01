@@ -1,0 +1,16 @@
+@import "../../_settings.scss";
+
+#first-dance {
+	.photo-gallery {
+		.row {
+			text-align: center;
+			
+			img {
+				margin-bottom: rem(50);
+				border: rem(4) solid #fff;
+				box-shadow: $z-2;
+			}
+		}
+	}
+}
+
