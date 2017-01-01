@@ -156,7 +156,7 @@ html { box-sizing: border-box; font-size: 100%; }
 
 *, *::before, *::after { box-sizing: inherit; }
 
-body { margin: 0; padding: 0; background: #fefefe; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-weight: normal; line-height: 1.5; color: #222; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+body { margin: 0; padding: 0; background: #fefefe; font-family: "AvenirNext Regular", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-weight: normal; line-height: 1.5; color: #222; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
 img { display: inline-block; vertical-align: middle; max-width: 100%; height: auto; -ms-interpolation-mode: bicubic; }
 
@@ -576,7 +576,7 @@ strong, b { font-weight: bold; line-height: inherit; }
 
 small { font-size: 80%; line-height: inherit; }
 
-h1, h2, h3, h4, h5, h6 { font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-style: normal; font-weight: normal; color: inherit; text-rendering: optimizeLegibility; }
+h1, h2, h3, h4, h5, h6 { font-family: "AvenirNext Regular", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-style: normal; font-weight: normal; color: inherit; text-rendering: optimizeLegibility; }
 
 h1 small, h2 small, h3 small, h4 small, h5 small, h6 small { line-height: 0; color: #cacaca; }
 
@@ -592,12 +592,12 @@ h5 { font-size: 1.0625rem; line-height: 1.4; margin-top: 0; margin-bottom: 0.5re
 
 h6 { font-size: 1rem; line-height: 1.4; margin-top: 0; margin-bottom: 0.5rem; }
 
-@media print, screen and (min-width: 40em) { h1 { font-size: 3rem; }
-  h2 { font-size: 2.5rem; }
-  h3 { font-size: 1.9375rem; }
-  h4 { font-size: 1.5625rem; }
-  h5 { font-size: 1.25rem; }
-  h6 { font-size: 1rem; } }
+@media print, screen and (min-width: 40em) { h1 { font-size: 4rem; }
+  h2 { font-size: 2.8125rem; }
+  h3 { font-size: 2rem; }
+  h4 { font-size: 1.375rem; }
+  h5 { font-size: 1rem; }
+  h6 { font-size: 0.75rem; } }
 
 a { line-height: inherit; color: #1779ba; text-decoration: none; cursor: pointer; }
 
