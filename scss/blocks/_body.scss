@@ -1,2 +1,5 @@
 @import "../_settings.scss";
 
+body {
+	background: #fff url('#{$url}/img/body/hex-bg.png') left top/auto repeat;
+}

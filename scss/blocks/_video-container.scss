@@ -2,12 +2,12 @@
 
 .video-container {
 	background: rgba(68,68,68,0.80);
-	border-bottom: rem(8) solid #F6C949;
-	margin-bottom: rem(70);
+	border-bottom: rem-calc(8) solid #F6C949;
+	margin-bottom: rem-calc(70);
 
 	.row {
 		background: url('#{$url}/img/first-dance/video/swirl_2x.png') 20px 0/200px auto no-repeat;
-		padding: rem(50) 0;
+		padding: rem-calc(50) 0;
 	}
 }
 
@@ -17,7 +17,7 @@
 	padding-bottom: 56.25%;
 	height: 0;
 	overflow: hidden;
-	border: em(5) solid #fff;
+	border: rem-calc(5) solid #fff;
 	box-shadow: $z-3;
 
 	iframe {

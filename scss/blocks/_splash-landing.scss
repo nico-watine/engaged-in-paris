@@ -9,9 +9,9 @@ $max-420: "only screen and (max-width : 26.250em)";
 	box-shadow: $z-3;
 
 	h1 {
-		font-size: rem(110);
+		font-size: rem-calc(110);
 		line-height: 1;
-		margin: rem(-20) 0 0 rem(25);
+		margin: rem-calc(-20) 0 0 rem-calc(25);
 
 		@include vertical-center;
 	}
@@ -22,7 +22,7 @@ $max-420: "only screen and (max-width : 26.250em)";
 	.splash-landing {
 
 		h1 {
-			font-size: rem(80);
+			font-size: rem-calc(80);
 			width: 100%;
 			text-align: center;
 			margin: 0;
@@ -34,8 +34,8 @@ $max-420: "only screen and (max-width : 26.250em)";
 	.splash-landing {
 
 		h1 {
-			font-size: rem(55);
-			padding: 0 rem(16);
+			font-size: rem-calc(55);
+			padding: 0 rem-calc(16);
 		}
 	}	
 }
@@ -44,7 +44,7 @@ $max-420: "only screen and (max-width : 26.250em)";
 	.splash-landing {
 
 		h1 {
-			font-size: rem(40);
+			font-size: rem-calc(40);
 		}
 	}
 }

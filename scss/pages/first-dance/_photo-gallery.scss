@@ -6,8 +6,8 @@
 			text-align: center;
 			
 			img {
-				margin-bottom: rem(50);
-				border: rem(4) solid #fff;
+				margin-bottom: rem-calc(50);
+				border: rem-calc(4) solid #fff;
 				box-shadow: $z-2;
 			}
 		}
