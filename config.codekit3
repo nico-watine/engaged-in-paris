@@ -4040,6 +4040,18 @@
 		"oAP": "\/dist\/404.html",
 		"oF": 0
 		},
+	"\/dist\/_index.php": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/dist\/_index.php",
+		"oF": 0
+		},
+	"\/dist\/chapel-exit.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/chapel-exit.php",
+		"oF": 0
+		},
 	"\/dist\/css\/app.css": {
 		"aP": 0,
 		"bl": 0,
@@ -5297,6 +5309,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/robots.txt",
+		"oF": 0
+		},
+	"\/dist\/wedding-album.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/wedding-album.php",
 		"oF": 0
 		},
 	"\/fonts\/avenir-next\/400\/avenir-next.eot": {
@@ -6855,6 +6873,18 @@
 		"oAP": "\/src\/layouts\/default.html",
 		"oF": 0
 		},
+	"\/src\/pages\/_index.php": {
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/src\/pages\/_index.php",
+		"oF": 0
+		},
+	"\/src\/pages\/chapel-exit.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/pages\/chapel-exit.php",
+		"oF": 0
+		},
 	"\/src\/pages\/first-dance.php": {
 		"ft": 8192,
 		"oA": 0,
@@ -6863,7 +6893,7 @@
 		},
 	"\/src\/pages\/index.php": {
 		"ft": 8192,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "\/src\/pages\/index.php",
 		"oF": 0
 		},
