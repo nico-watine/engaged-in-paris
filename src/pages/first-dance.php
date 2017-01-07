@@ -12,7 +12,7 @@ body-class: first-dance
 	<h1 class="heading-bold">First Dance</h1>
 	<img src="{{ cdn }}/img/first-dance/splash/1920w.jpg" alt="Nico &amp; Corinne bustin' a mooooove">
 </section>
-<section class="video-container">
+<section class="videoContainer">
 	<div class="row">
 		<div class="medium-10 medium-push-1 large-8 large-push-2 columns">
 			<div class="iframe-wrapper" id="first-dance-video-embed">
