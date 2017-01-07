@@ -6710,7 +6710,7 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/blocks\/_video-container.scss": {
+	"\/scss\/blocks\/_videoContainer.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -6718,7 +6718,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/css\/_video-container.css",
+		"oAP": "\/scss\/css\/_videoContainer.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
