@@ -3,16 +3,16 @@
 #first-dance {
 
 	.videoContainer {
-		background: rgba(68,68,68,0.80);
-		border-bottom: rem-calc(8) solid #F6C949;
-		margin-bottom: rem-calc(70);
+		// background: rgba(68,68,68,0.80);
+		// border-bottom: rem-calc(8) solid #F6C949;
+		// margin-bottom: rem-calc(70);
 
 		.row {
-			background: url('#{$url}/img/first-dance/video/swirl_2x.png') 20px 0/200px auto no-repeat;
-			padding: rem-calc(50) 0;
+			// background: url('#{$url}/img/first-dance/video/swirl_2x.png') 20px 0/200px auto no-repeat;
+			// padding: rem-calc(50) 0;
 
 			.video-wrapper {
-				.iframe-wrapper {
+				.iframeWrapper {
 					background: #fff url('#{$url}/img/first-dance/video/video-thumb.jpg') center center/cover no-repeat;
 					width: 100%;
 					position: relative;
