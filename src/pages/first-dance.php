@@ -21,7 +21,7 @@ body-class: first-dance
 		</div>
 	</div>
 </section>
-<section class="photo-gallery">
+<section class="photoGallery">
 	<div class="row">
 		<div class="medium-4 columns">
 			<img srcset="{{ cdn }}/img/first-dance/gallery/1_2x.jpg 2x" src="{{ cdn }}/img/first-dance/gallery/1.jpg" alt="Nico &amp; Corinne's First Dance">

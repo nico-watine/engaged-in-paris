@@ -1,0 +1,11 @@
+@import "../_settings.scss";
+
+.photoGallery {
+	text-align: center;
+	
+	img {
+		margin-bottom: rem-calc(50);
+		border: rem-calc(4) solid #fff;
+		box-shadow: $z-2;
+	}
+}
