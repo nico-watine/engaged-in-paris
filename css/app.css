@@ -2245,6 +2245,10 @@ h3.heading, h4.heading { letter-spacing: 0.0625rem; }
 
 .contrast * { color: #fff; text-shadow: 0 0.125rem 0.25rem #000; }
 
+.textShadow-white, .textShadow-white * { color: #222; text-shadow: 0 0.125rem 0.25rem #fff; }
+
+.textShadow-black, .textShadow-black * { color: #fff; text-shadow: 0 0.125rem 0.25rem #000; }
+
 body { background: #fff url("/img/body/hex-bg.png") left top/auto repeat; }
 
 .splash-landing { position: relative; box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); }
