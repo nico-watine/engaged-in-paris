@@ -29,6 +29,7 @@ h4.heading {
 }
 
 .heading-bold {
+	@extend .heading;
 	font-weight: 700;
 }
 
