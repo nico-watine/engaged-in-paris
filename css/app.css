@@ -2265,15 +2265,15 @@ body { background: #fff url("/img/body/hex-bg.png") left top/auto repeat; }
 
 .videoContainer .row { background: url("/img/first-dance/video/swirl_2x.png") 20px 0/200px auto no-repeat; padding: 3.125rem 0; }
 
-.iframeWrapper { width: 100%; position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border: 0.3125rem solid #fff; box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); }
+.videoContainer--iframeWrapper { width: 100%; position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border: 0.3125rem solid #fff; box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); }
 
-.iframeWrapper iframe { width: 100%; height: 100%; top: 0; left: 0; position: absolute; }
+.videoContainer--iframeWrapper iframe { width: 100%; height: 100%; top: 0; left: 0; position: absolute; }
 
 .photoGallery { text-align: center; }
 
 .photoGallery img { margin-bottom: 3.125rem; border: 0.25rem solid #fff; box-shadow: 0 0.125rem 0.125rem 0 rgba(0, 0, 0, 0.2), 0 0.375rem 0.625rem 0 rgba(0, 0, 0, 0.3); }
 
-#first-dance .iframeWrapper#first-dance-video-embed { background: #fff url("/img/first-dance/video/video-thumb.jpg") center center/cover no-repeat; }
+.videoContainer--iframeWrapper#first-dance-video-embed { background: #fff url("/img/first-dance/video/video-thumb.jpg") center center/cover no-repeat; }
 
 .p-0 { padding: 0; }
 
