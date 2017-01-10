@@ -22,8 +22,8 @@ body-class: the-send-off
 		</div>
 	</div>
 	<div class="row">
-		<div class="medium-6 medium-push-2 columns end">
-			<img srcset="/img/the-send-off/gallery/3_2x.jpg 2x" src="/img/the-send-off/gallery/3.jpg" alt="">
+		<div class="small-12 columns">
+			<img srcset="/img/the-send-off/gallery/3_2x.jpg 2x" src="/img/the-send-off/gallery/3.jpg" alt="Nico &amp; Corinne's send-off">
 		</div>
 	</div>
 	<div class="row">
@@ -32,6 +32,11 @@ body-class: the-send-off
 		</div>
 		<div class="medium-6 columns">
 			<img srcset="/img/the-send-off/gallery/5_2x.jpg 2x" src="/img/the-send-off/gallery/5.jpg" alt="Nico &amp; Corinne's send-off">
+		</div>
+	</div>
+	<div class="row">
+		<div class="medium-6 medium-push-3 columns end">
+			<img srcset="/img/the-send-off/gallery/6_2x.jpg 2x" src="/img/the-send-off/gallery/6.jpg" alt="Nico &amp; Corinne's send-off">
 		</div>
 	</div>
 </section>
