@@ -48,4 +48,26 @@ body-class:
 			</div>
 		</div>
 	</section>
+	<div class="show-for-small-only bumper-space"></div>
+	<section class="photoGallery">
+		<div class="row">
+			<div class="medium-6 columns">
+				<img srcset="/img/chapel-exit/gallery/7_2x.jpg 2x" src="/img/chapel-exit/gallery/7.jpg" alt="Nico &amp; Corinne in the limo!">
+			</div>
+			<div class="medium-6 columns">
+				<img srcset="/img/chapel-exit/gallery/8_2x.jpg 2x" src="/img/chapel-exit/gallery/8.jpg" alt="Nico &amp; Corinne in the limo!">
+			</div>
+		</div>
+	</section>
+	<section>
+		<div class="row">
+			<div class="medium-6 columns">
+				<div class="bumper-space show-for-medium"></div>
+				<h1 class="heading-bold medium-text-right">On to the party!</h1>
+			</div>
+			<div class="medium-6 columns photoGallery">
+				<img srcset="/img/chapel-exit/gallery/9_2x.jpg 2x" src="/img/chapel-exit/gallery/9.jpg" alt="Off to the party!">
+			</div>
+		</div>
+	</section>
 </main>
