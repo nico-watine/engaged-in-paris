@@ -4,11 +4,11 @@
 
 
 Portrait
-370 x 555
-@2x
-740 x 1110
+6-columns-wide (typically max width for a portrait)
+570px
+1140px 2x
 
 Landscape
-770 x 513
-@2x
-1480 x 987
+8-columns-wide (typically max width for a landscape)
+770
+1480 2x
