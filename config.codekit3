@@ -4121,7 +4121,7 @@
 	"\/dist\/img\/badge\/badge.png": {
 		"ft": 32768,
 		"iS": 13057,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/badge\/badge.png",
 		"oF": 0,
 		"opt": 0
@@ -4129,23 +4129,23 @@
 	"\/dist\/img\/badge\/nav-badge.png": {
 		"ft": 32768,
 		"iS": 2297,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/badge\/nav-badge.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/dist\/img\/body\/hex-bg.png": {
 		"ft": 32768,
 		"iS": 10779,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/body\/hex-bg.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/dist\/img\/chapel-exit\/splash-landing\/1600w.jpg": {
 		"ft": 16384,
 		"iS": 163351,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/chapel-exit\/splash-landing\/1600w.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4153,7 +4153,7 @@
 	"\/dist\/img\/chapel-exit\/splash-landing\/1920w.jpg": {
 		"ft": 16384,
 		"iS": 223812,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/chapel-exit\/splash-landing\/1920w.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4161,7 +4161,7 @@
 	"\/dist\/img\/chapel-exit\/splash-landing\/800w.jpg": {
 		"ft": 16384,
 		"iS": 63533,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/chapel-exit\/splash-landing\/800w.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4169,7 +4169,7 @@
 	"\/dist\/img\/first-dance\/gallery\/1.jpg": {
 		"ft": 16384,
 		"iS": 51606,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/first-dance\/gallery\/1.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4177,7 +4177,7 @@
 	"\/dist\/img\/first-dance\/gallery\/10.jpg": {
 		"ft": 16384,
 		"iS": 88893,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/first-dance\/gallery\/10.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4185,7 +4185,7 @@
 	"\/dist\/img\/first-dance\/gallery\/10_2x.jpg": {
 		"ft": 16384,
 		"iS": 201478,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/first-dance\/gallery\/10_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4193,7 +4193,7 @@
 	"\/dist\/img\/first-dance\/gallery\/11.jpg": {
 		"ft": 16384,
 		"iS": 54122,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/first-dance\/gallery\/11.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4201,15 +4201,15 @@
 	"\/dist\/img\/first-dance\/gallery\/11_2x.jpg": {
 		"ft": 16384,
 		"iS": 95433,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/first-dance\/gallery\/11_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/dist\/img\/first-dance\/gallery\/1_2x.jpg": {
 		"ft": 16384,
 		"iS": 90960,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/first-dance\/gallery\/1_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4217,7 +4217,7 @@
 	"\/dist\/img\/first-dance\/gallery\/2.jpg": {
 		"ft": 16384,
 		"iS": 55363,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/first-dance\/gallery\/2.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4225,7 +4225,7 @@
 	"\/dist\/img\/first-dance\/gallery\/2_2x.jpg": {
 		"ft": 16384,
 		"iS": 100156,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/first-dance\/gallery\/2_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4233,7 +4233,7 @@
 	"\/dist\/img\/first-dance\/gallery\/3.jpg": {
 		"ft": 16384,
 		"iS": 52713,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/first-dance\/gallery\/3.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4241,7 +4241,7 @@
 	"\/dist\/img\/first-dance\/gallery\/3_2x.jpg": {
 		"ft": 16384,
 		"iS": 93885,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/first-dance\/gallery\/3_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4249,7 +4249,7 @@
 	"\/dist\/img\/first-dance\/gallery\/4.jpg": {
 		"ft": 16384,
 		"iS": 48314,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/first-dance\/gallery\/4.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4257,7 +4257,7 @@
 	"\/dist\/img\/first-dance\/gallery\/4_2x.jpg": {
 		"ft": 16384,
 		"iS": 85400,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/first-dance\/gallery\/4_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4265,7 +4265,7 @@
 	"\/dist\/img\/first-dance\/gallery\/5.jpg": {
 		"ft": 16384,
 		"iS": 67510,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/first-dance\/gallery\/5.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4273,7 +4273,7 @@
 	"\/dist\/img\/first-dance\/gallery\/5_2x.jpg": {
 		"ft": 16384,
 		"iS": 137292,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/first-dance\/gallery\/5_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4281,7 +4281,7 @@
 	"\/dist\/img\/first-dance\/gallery\/6.jpg": {
 		"ft": 16384,
 		"iS": 66798,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/first-dance\/gallery\/6.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4289,7 +4289,7 @@
 	"\/dist\/img\/first-dance\/gallery\/6_2x.jpg": {
 		"ft": 16384,
 		"iS": 137382,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/first-dance\/gallery\/6_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4297,7 +4297,7 @@
 	"\/dist\/img\/first-dance\/gallery\/7.jpg": {
 		"ft": 16384,
 		"iS": 56523,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/first-dance\/gallery\/7.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4305,15 +4305,15 @@
 	"\/dist\/img\/first-dance\/gallery\/7_2x.jpg": {
 		"ft": 16384,
 		"iS": 102441,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/first-dance\/gallery\/7_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/dist\/img\/first-dance\/gallery\/8.jpg": {
 		"ft": 16384,
 		"iS": 51775,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/first-dance\/gallery\/8.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4321,7 +4321,7 @@
 	"\/dist\/img\/first-dance\/gallery\/8_2x.jpg": {
 		"ft": 16384,
 		"iS": 89364,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/first-dance\/gallery\/8_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4329,7 +4329,7 @@
 	"\/dist\/img\/first-dance\/gallery\/9.jpg": {
 		"ft": 16384,
 		"iS": 88457,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/first-dance\/gallery\/9.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4337,7 +4337,7 @@
 	"\/dist\/img\/first-dance\/gallery\/9_2x.jpg": {
 		"ft": 16384,
 		"iS": 214997,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/first-dance\/gallery\/9_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4345,7 +4345,7 @@
 	"\/dist\/img\/first-dance\/splash\/1600w.jpg": {
 		"ft": 16384,
 		"iS": 215017,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/first-dance\/splash\/1600w.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4353,7 +4353,7 @@
 	"\/dist\/img\/first-dance\/splash\/1920w.jpg": {
 		"ft": 16384,
 		"iS": 298472,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/first-dance\/splash\/1920w.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4361,7 +4361,7 @@
 	"\/dist\/img\/first-dance\/splash\/800w.jpg": {
 		"ft": 16384,
 		"iS": 64704,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/first-dance\/splash\/800w.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4369,15 +4369,15 @@
 	"\/dist\/img\/first-dance\/video\/swirl_2x.png": {
 		"ft": 32768,
 		"iS": 11563,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/first-dance\/video\/swirl_2x.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/dist\/img\/first-dance\/video\/video-thumb.jpg": {
 		"ft": 16384,
 		"iS": 57511,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/first-dance\/video\/video-thumb.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4385,7 +4385,7 @@
 	"\/dist\/img\/index\/bg_default.jpg": {
 		"ft": 16384,
 		"iS": 451872,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/index\/bg_default.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4393,15 +4393,15 @@
 	"\/dist\/img\/index\/blocks\/chapel-exit\/background.png": {
 		"ft": 32768,
 		"iS": 377814,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/index\/blocks\/chapel-exit\/background.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/dist\/img\/index\/blocks\/first-dance\/background.jpg": {
 		"ft": 16384,
 		"iS": 71701,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/index\/blocks\/first-dance\/background.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4409,7 +4409,7 @@
 	"\/dist\/img\/index\/blocks\/proposal-story\/background.jpg": {
 		"ft": 16384,
 		"iS": 100390,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/index\/blocks\/proposal-story\/background.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4417,7 +4417,7 @@
 	"\/dist\/img\/index\/hero\/default.jpg": {
 		"ft": 16384,
 		"iS": 137793,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/index\/hero\/default.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4425,15 +4425,15 @@
 	"\/dist\/img\/proposal-story\/assets\/circular-arrow.png": {
 		"ft": 32768,
 		"iS": 1353,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/proposal-story\/assets\/circular-arrow.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/dist\/img\/proposal-story\/lock-bridge\/corinne-posing.jpg": {
 		"ft": 16384,
 		"iS": 126096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/proposal-story\/lock-bridge\/corinne-posing.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4441,7 +4441,7 @@
 	"\/dist\/img\/proposal-story\/lock-bridge\/corinne.jpg": {
 		"ft": 16384,
 		"iS": 76641,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/proposal-story\/lock-bridge\/corinne.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4449,7 +4449,7 @@
 	"\/dist\/img\/proposal-story\/lock-bridge\/corinne_2x.jpg": {
 		"ft": 16384,
 		"iS": 193748,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/proposal-story\/lock-bridge\/corinne_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4457,7 +4457,7 @@
 	"\/dist\/img\/proposal-story\/lock-bridge\/lock-bridge-map.jpg": {
 		"ft": 16384,
 		"iS": 186620,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/proposal-story\/lock-bridge\/lock-bridge-map.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4465,7 +4465,7 @@
 	"\/dist\/img\/proposal-story\/lock-bridge\/lock-bridge-selfie.jpg": {
 		"ft": 16384,
 		"iS": 88349,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/proposal-story\/lock-bridge\/lock-bridge-selfie.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4473,7 +4473,7 @@
 	"\/dist\/img\/proposal-story\/lock-bridge\/lock-bridge-view.jpg": {
 		"ft": 16384,
 		"iS": 208273,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/proposal-story\/lock-bridge\/lock-bridge-view.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4481,7 +4481,7 @@
 	"\/dist\/img\/proposal-story\/lock-bridge\/lock-bridge.jpg": {
 		"ft": 16384,
 		"iS": 95109,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/proposal-story\/lock-bridge\/lock-bridge.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4489,7 +4489,7 @@
 	"\/dist\/img\/proposal-story\/lock-bridge\/lock-bridge_2x.jpg": {
 		"ft": 16384,
 		"iS": 237827,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/proposal-story\/lock-bridge\/lock-bridge_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4497,7 +4497,7 @@
 	"\/dist\/img\/proposal-story\/lock-bridge\/selfie.jpg": {
 		"ft": 16384,
 		"iS": 52491,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/proposal-story\/lock-bridge\/selfie.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4505,7 +4505,7 @@
 	"\/dist\/img\/proposal-story\/lock-bridge\/selfie_2x.jpg": {
 		"ft": 16384,
 		"iS": 123840,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/proposal-story\/lock-bridge\/selfie_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4513,7 +4513,7 @@
 	"\/dist\/img\/proposal-story\/louvre\/corinne-bench.jpg": {
 		"ft": 16384,
 		"iS": 62710,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/proposal-story\/louvre\/corinne-bench.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4521,7 +4521,7 @@
 	"\/dist\/img\/proposal-story\/louvre\/corinne-bench_2x.jpg": {
 		"ft": 16384,
 		"iS": 194584,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/proposal-story\/louvre\/corinne-bench_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4529,7 +4529,7 @@
 	"\/dist\/img\/proposal-story\/louvre\/corinne_2x.jpg": {
 		"ft": 16384,
 		"iS": 160699,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/proposal-story\/louvre\/corinne_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4537,7 +4537,7 @@
 	"\/dist\/img\/proposal-story\/louvre\/louve-pyramid.jpg": {
 		"ft": 16384,
 		"iS": 249465,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/proposal-story\/louvre\/louve-pyramid.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4545,7 +4545,7 @@
 	"\/dist\/img\/proposal-story\/louvre\/louvre-parallax.jpg": {
 		"ft": 16384,
 		"iS": 269973,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/proposal-story\/louvre\/louvre-parallax.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4553,7 +4553,7 @@
 	"\/dist\/img\/proposal-story\/louvre\/louvre-parallax_960.jpg": {
 		"ft": 16384,
 		"iS": 75642,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/proposal-story\/louvre\/louvre-parallax_960.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4561,7 +4561,7 @@
 	"\/dist\/img\/proposal-story\/louvre\/nico-bench.jpg": {
 		"ft": 16384,
 		"iS": 55822,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/proposal-story\/louvre\/nico-bench.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4569,7 +4569,7 @@
 	"\/dist\/img\/proposal-story\/louvre\/nico-bench_2x.jpg": {
 		"ft": 16384,
 		"iS": 134732,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/proposal-story\/louvre\/nico-bench_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4577,7 +4577,7 @@
 	"\/dist\/img\/proposal-story\/louvre\/nico_2x.jpg": {
 		"ft": 16384,
 		"iS": 143343,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/proposal-story\/louvre\/nico_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4585,7 +4585,7 @@
 	"\/dist\/img\/proposal-story\/louvre\/pyramid.jpg": {
 		"ft": 16384,
 		"iS": 105920,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/proposal-story\/louvre\/pyramid.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4593,7 +4593,7 @@
 	"\/dist\/img\/proposal-story\/louvre\/pyramid_2x.jpg": {
 		"ft": 16384,
 		"iS": 274456,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/proposal-story\/louvre\/pyramid_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4601,7 +4601,7 @@
 	"\/dist\/img\/proposal-story\/notre-dame\/notre-dame-facade.jpg": {
 		"ft": 16384,
 		"iS": 226686,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/proposal-story\/notre-dame\/notre-dame-facade.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4609,7 +4609,7 @@
 	"\/dist\/img\/proposal-story\/notre-dame\/notre-dame-map.jpg": {
 		"ft": 16384,
 		"iS": 183154,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/proposal-story\/notre-dame\/notre-dame-map.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4617,7 +4617,7 @@
 	"\/dist\/img\/proposal-story\/notre-dame\/notre-dame-panorama.jpg": {
 		"ft": 16384,
 		"iS": 277909,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/proposal-story\/notre-dame\/notre-dame-panorama.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4625,7 +4625,7 @@
 	"\/dist\/img\/proposal-story\/notre-dame\/notre-dame.jpg": {
 		"ft": 16384,
 		"iS": 81453,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/proposal-story\/notre-dame\/notre-dame.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4633,15 +4633,15 @@
 	"\/dist\/img\/proposal-story\/notre-dame\/notre-dame_2x.jpg": {
 		"ft": 16384,
 		"iS": 226775,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/proposal-story\/notre-dame\/notre-dame_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/dist\/img\/proposal-story\/ring\/ring-mobile.jpg": {
 		"ft": 16384,
 		"iS": 37502,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/proposal-story\/ring\/ring-mobile.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4649,7 +4649,7 @@
 	"\/dist\/img\/proposal-story\/ring\/ring.jpg": {
 		"ft": 16384,
 		"iS": 151089,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/proposal-story\/ring\/ring.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4657,7 +4657,7 @@
 	"\/dist\/img\/proposal-story\/ring\/ring_650.jpg": {
 		"ft": 16384,
 		"iS": 53091,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/proposal-story\/ring\/ring_650.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4665,7 +4665,7 @@
 	"\/dist\/img\/proposal-story\/ring\/ring_970.jpg": {
 		"ft": 16384,
 		"iS": 94732,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/proposal-story\/ring\/ring_970.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4673,7 +4673,7 @@
 	"\/dist\/img\/proposal-story\/sacre-coeur\/church-portrait.jpg": {
 		"ft": 16384,
 		"iS": 34023,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/proposal-story\/sacre-coeur\/church-portrait.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4681,7 +4681,7 @@
 	"\/dist\/img\/proposal-story\/sacre-coeur\/church-portrait_2x.jpg": {
 		"ft": 16384,
 		"iS": 102553,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/proposal-story\/sacre-coeur\/church-portrait_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4689,7 +4689,7 @@
 	"\/dist\/img\/proposal-story\/sacre-coeur\/church-selfie.jpg": {
 		"ft": 16384,
 		"iS": 28387,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/proposal-story\/sacre-coeur\/church-selfie.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4697,7 +4697,7 @@
 	"\/dist\/img\/proposal-story\/sacre-coeur\/church-selfie_2x.jpg": {
 		"ft": 16384,
 		"iS": 83069,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/proposal-story\/sacre-coeur\/church-selfie_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4705,7 +4705,7 @@
 	"\/dist\/img\/proposal-story\/sacre-coeur\/sacre-coeur-hill.jpg": {
 		"ft": 16384,
 		"iS": 19776,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/proposal-story\/sacre-coeur\/sacre-coeur-hill.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4713,7 +4713,7 @@
 	"\/dist\/img\/proposal-story\/sacre-coeur\/sacre-coeur-hill_2x.jpg": {
 		"ft": 16384,
 		"iS": 56356,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/proposal-story\/sacre-coeur\/sacre-coeur-hill_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4721,7 +4721,7 @@
 	"\/dist\/img\/proposal-story\/sacre-coeur\/sacre-coeur.jpg": {
 		"ft": 16384,
 		"iS": 208019,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/proposal-story\/sacre-coeur\/sacre-coeur.jpg",
 		"oF": 0,
 		"opt": 0
@@ -4741,7 +4741,7 @@
 	"\/dist\/img\/proposal-story\/video\/splash\/mobile\/landscape.gif": {
 		"ft": 4194304,
 		"iS": 667712,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/proposal-story\/video\/splash\/mobile\/landscape.gif",
 		"oF": 0,
 		"opt": 0
@@ -4749,7 +4749,7 @@
 	"\/dist\/img\/proposal-story\/video\/splash\/mobile\/square.gif": {
 		"ft": 4194304,
 		"iS": 552707,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/proposal-story\/video\/splash\/mobile\/square.gif",
 		"oF": 0,
 		"opt": 0
@@ -4757,7 +4757,7 @@
 	"\/dist\/img\/proposal-story\/video\/splash\/poster.jpg": {
 		"ft": 16384,
 		"iS": 170723,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/proposal-story\/video\/splash\/poster.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5029,7 +5029,7 @@
 	"\/dist\/img\/wedding-album\/assets\/bg\/hex-bg.png": {
 		"ft": 32768,
 		"iS": 10779,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/assets\/bg\/hex-bg.png",
 		"oF": 0,
 		"opt": 0
@@ -5037,7 +5037,7 @@
 	"\/dist\/img\/wedding-album\/assets\/bg\/hex_bg-1.png": {
 		"ft": 32768,
 		"iS": 4989,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/assets\/bg\/hex_bg-1.png",
 		"oF": 0,
 		"opt": 0
@@ -5045,7 +5045,7 @@
 	"\/dist\/img\/wedding-album\/bridals\/1.jpg": {
 		"ft": 16384,
 		"iS": 66322,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/bridals\/1.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5053,7 +5053,7 @@
 	"\/dist\/img\/wedding-album\/bridals\/1_2x.jpg": {
 		"ft": 16384,
 		"iS": 141100,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/bridals\/1_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5061,7 +5061,7 @@
 	"\/dist\/img\/wedding-album\/bridals\/2.jpg": {
 		"ft": 16384,
 		"iS": 57244,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/bridals\/2.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5069,7 +5069,7 @@
 	"\/dist\/img\/wedding-album\/bridals\/2_2x.jpg": {
 		"ft": 16384,
 		"iS": 123997,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/bridals\/2_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5077,7 +5077,7 @@
 	"\/dist\/img\/wedding-album\/bridals\/3.jpg": {
 		"ft": 16384,
 		"iS": 60175,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/bridals\/3.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5085,7 +5085,7 @@
 	"\/dist\/img\/wedding-album\/bridals\/3_2x.jpg": {
 		"ft": 16384,
 		"iS": 98101,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/bridals\/3_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5093,7 +5093,7 @@
 	"\/dist\/img\/wedding-album\/bridals\/4.jpg": {
 		"ft": 16384,
 		"iS": 104107,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/bridals\/4.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5101,7 +5101,7 @@
 	"\/dist\/img\/wedding-album\/bridals\/4_2x.jpg": {
 		"ft": 16384,
 		"iS": 235255,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/bridals\/4_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5109,7 +5109,7 @@
 	"\/dist\/img\/wedding-album\/bridals\/5.jpg": {
 		"ft": 16384,
 		"iS": 124447,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/bridals\/5.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5117,7 +5117,7 @@
 	"\/dist\/img\/wedding-album\/bridals\/5_2x.jpg": {
 		"ft": 16384,
 		"iS": 293367,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/bridals\/5_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5125,7 +5125,7 @@
 	"\/dist\/img\/wedding-album\/bridals\/6.jpg": {
 		"ft": 16384,
 		"iS": 284916,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/bridals\/6.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5133,7 +5133,7 @@
 	"\/dist\/img\/wedding-album\/bridals\/6_2x.jpg": {
 		"ft": 16384,
 		"iS": 692252,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/bridals\/6_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5141,15 +5141,15 @@
 	"\/dist\/img\/wedding-album\/first-dance\/first-dance-swirl.png": {
 		"ft": 32768,
 		"iS": 5331,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/first-dance\/first-dance-swirl.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/dist\/img\/wedding-album\/first-dance\/first-dance-swirl_2x.png": {
 		"ft": 32768,
 		"iS": 11563,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/first-dance\/first-dance-swirl_2x.png",
 		"oF": 0,
 		"opt": 0
@@ -5157,7 +5157,7 @@
 	"\/dist\/img\/wedding-album\/first-look\/1.jpg": {
 		"ft": 16384,
 		"iS": 95443,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/first-look\/1.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5165,7 +5165,7 @@
 	"\/dist\/img\/wedding-album\/first-look\/1_2x.jpg": {
 		"ft": 16384,
 		"iS": 170823,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/first-look\/1_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5173,7 +5173,7 @@
 	"\/dist\/img\/wedding-album\/first-look\/2.jpg": {
 		"ft": 16384,
 		"iS": 35358,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/first-look\/2.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5181,7 +5181,7 @@
 	"\/dist\/img\/wedding-album\/first-look\/2_2x.jpg": {
 		"ft": 16384,
 		"iS": 115094,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/first-look\/2_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5189,15 +5189,15 @@
 	"\/dist\/img\/wedding-album\/first-look\/swirl.png": {
 		"ft": 32768,
 		"iS": 13069,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/first-look\/swirl.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/dist\/img\/wedding-album\/hair-makeup\/1.jpg": {
 		"ft": 16384,
 		"iS": 93267,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/hair-makeup\/1.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5205,7 +5205,7 @@
 	"\/dist\/img\/wedding-album\/hair-makeup\/10.jpg": {
 		"ft": 16384,
 		"iS": 134153,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/hair-makeup\/10.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5213,7 +5213,7 @@
 	"\/dist\/img\/wedding-album\/hair-makeup\/10_2x.jpg": {
 		"ft": 16384,
 		"iS": 177762,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/hair-makeup\/10_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5221,7 +5221,7 @@
 	"\/dist\/img\/wedding-album\/hair-makeup\/11.jpg": {
 		"ft": 16384,
 		"iS": 138698,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/hair-makeup\/11.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5229,7 +5229,7 @@
 	"\/dist\/img\/wedding-album\/hair-makeup\/11_2x.jpg": {
 		"ft": 16384,
 		"iS": 184289,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/hair-makeup\/11_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5237,7 +5237,7 @@
 	"\/dist\/img\/wedding-album\/hair-makeup\/12.jpg": {
 		"ft": 16384,
 		"iS": 115526,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/hair-makeup\/12.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5245,7 +5245,7 @@
 	"\/dist\/img\/wedding-album\/hair-makeup\/12_2x.jpg": {
 		"ft": 16384,
 		"iS": 151831,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/hair-makeup\/12_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5253,7 +5253,7 @@
 	"\/dist\/img\/wedding-album\/hair-makeup\/1_2x.jpg": {
 		"ft": 16384,
 		"iS": 115508,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/hair-makeup\/1_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5261,7 +5261,7 @@
 	"\/dist\/img\/wedding-album\/hair-makeup\/2.jpg": {
 		"ft": 16384,
 		"iS": 91692,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/hair-makeup\/2.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5269,7 +5269,7 @@
 	"\/dist\/img\/wedding-album\/hair-makeup\/2_2x.jpg": {
 		"ft": 16384,
 		"iS": 118906,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/hair-makeup\/2_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5277,7 +5277,7 @@
 	"\/dist\/img\/wedding-album\/hair-makeup\/3.jpg": {
 		"ft": 16384,
 		"iS": 97054,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/hair-makeup\/3.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5285,7 +5285,7 @@
 	"\/dist\/img\/wedding-album\/hair-makeup\/3_2x.jpg": {
 		"ft": 16384,
 		"iS": 126020,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/hair-makeup\/3_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5293,7 +5293,7 @@
 	"\/dist\/img\/wedding-album\/hair-makeup\/4.jpg": {
 		"ft": 16384,
 		"iS": 85609,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/hair-makeup\/4.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5301,7 +5301,7 @@
 	"\/dist\/img\/wedding-album\/hair-makeup\/4_2x.jpg": {
 		"ft": 16384,
 		"iS": 110433,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/hair-makeup\/4_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5309,7 +5309,7 @@
 	"\/dist\/img\/wedding-album\/hair-makeup\/5.jpg": {
 		"ft": 16384,
 		"iS": 80795,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/hair-makeup\/5.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5317,7 +5317,7 @@
 	"\/dist\/img\/wedding-album\/hair-makeup\/5_2x.jpg": {
 		"ft": 16384,
 		"iS": 105518,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/hair-makeup\/5_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5325,7 +5325,7 @@
 	"\/dist\/img\/wedding-album\/hair-makeup\/6.jpg": {
 		"ft": 16384,
 		"iS": 85680,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/hair-makeup\/6.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5333,7 +5333,7 @@
 	"\/dist\/img\/wedding-album\/hair-makeup\/6_2x.jpg": {
 		"ft": 16384,
 		"iS": 115668,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/hair-makeup\/6_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5341,15 +5341,15 @@
 	"\/dist\/img\/wedding-album\/hair-makeup\/7.jpg": {
 		"ft": 16384,
 		"iS": 87029,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/hair-makeup\/7.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/dist\/img\/wedding-album\/hair-makeup\/7_2x.jpg": {
 		"ft": 16384,
 		"iS": 115603,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/hair-makeup\/7_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5357,7 +5357,7 @@
 	"\/dist\/img\/wedding-album\/hair-makeup\/8.jpg": {
 		"ft": 16384,
 		"iS": 80155,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/hair-makeup\/8.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5365,7 +5365,7 @@
 	"\/dist\/img\/wedding-album\/hair-makeup\/8_2x.jpg": {
 		"ft": 16384,
 		"iS": 100366,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/hair-makeup\/8_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5373,7 +5373,7 @@
 	"\/dist\/img\/wedding-album\/hair-makeup\/9.jpg": {
 		"ft": 16384,
 		"iS": 69609,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/hair-makeup\/9.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5381,7 +5381,7 @@
 	"\/dist\/img\/wedding-album\/hair-makeup\/9_2x.jpg": {
 		"ft": 16384,
 		"iS": 91175,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/hair-makeup\/9_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5389,7 +5389,7 @@
 	"\/dist\/img\/wedding-album\/header\/program-mockup.jpg": {
 		"ft": 16384,
 		"iS": 74219,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/header\/program-mockup.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5397,7 +5397,7 @@
 	"\/dist\/img\/wedding-album\/header\/program-mockup@1100.jpg": {
 		"ft": 16384,
 		"iS": 62632,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/header\/program-mockup@1100.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5405,7 +5405,7 @@
 	"\/dist\/img\/wedding-album\/header\/program-mockup@700.jpg": {
 		"ft": 16384,
 		"iS": 31563,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-album\/header\/program-mockup@700.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5413,7 +5413,7 @@
 	"\/dist\/img\/wedding-details\/bg@default.jpg": {
 		"ft": 16384,
 		"iS": 415852,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-details\/bg@default.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5421,7 +5421,7 @@
 	"\/dist\/img\/wedding-details\/chapel-entrance.jpg": {
 		"ft": 16384,
 		"iS": 35869,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-details\/chapel-entrance.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5429,7 +5429,7 @@
 	"\/dist\/img\/wedding-details\/chapel-entrance@2x.jpg": {
 		"ft": 16384,
 		"iS": 140733,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-details\/chapel-entrance@2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5437,23 +5437,23 @@
 	"\/dist\/img\/wedding-details\/chapel-map@2x.png": {
 		"ft": 32768,
 		"iS": 480505,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-details\/chapel-map@2x.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/dist\/img\/wedding-details\/chapel-street@2x.png": {
 		"ft": 32768,
 		"iS": 852350,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-details\/chapel-street@2x.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/dist\/img\/wedding-details\/church-map@2x.png": {
 		"ft": 32768,
 		"iS": 481838,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-details\/church-map@2x.png",
 		"oF": 0,
 		"opt": 0
@@ -5461,15 +5461,15 @@
 	"\/dist\/img\/wedding-details\/church-street@2x.png": {
 		"ft": 32768,
 		"iS": 692454,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-details\/church-street@2x.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/dist\/img\/wedding-details\/reception\/ballroom.jpg": {
 		"ft": 16384,
 		"iS": 46002,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-details\/reception\/ballroom.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5477,7 +5477,7 @@
 	"\/dist\/img\/wedding-details\/reception\/ballroom@2x.jpg": {
 		"ft": 16384,
 		"iS": 61261,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-details\/reception\/ballroom@2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5485,7 +5485,7 @@
 	"\/dist\/img\/wedding-details\/reception\/brennans-street.jpg": {
 		"ft": 16384,
 		"iS": 85284,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-details\/reception\/brennans-street.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5493,7 +5493,7 @@
 	"\/dist\/img\/wedding-details\/reception\/brennans-street@2x.jpg": {
 		"ft": 16384,
 		"iS": 160443,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-details\/reception\/brennans-street@2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5501,7 +5501,7 @@
 	"\/dist\/img\/wedding-details\/reception\/exterior.jpg": {
 		"ft": 16384,
 		"iS": 56339,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-details\/reception\/exterior.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5509,7 +5509,7 @@
 	"\/dist\/img\/wedding-details\/reception\/exterior@2x.jpg": {
 		"ft": 16384,
 		"iS": 167666,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-details\/reception\/exterior@2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5517,7 +5517,7 @@
 	"\/dist\/img\/wedding-details\/school-building.jpg": {
 		"ft": 16384,
 		"iS": 82550,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-details\/school-building.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5525,7 +5525,7 @@
 	"\/dist\/img\/wedding-details\/school-building@2x.jpg": {
 		"ft": 16384,
 		"iS": 287461,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-details\/school-building@2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5533,7 +5533,7 @@
 	"\/dist\/img\/wedding-details\/school-pano.jpg": {
 		"ft": 16384,
 		"iS": 59945,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-details\/school-pano.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5541,7 +5541,7 @@
 	"\/dist\/img\/wedding-details\/school-pano@2x.jpg": {
 		"ft": 16384,
 		"iS": 224081,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/img\/wedding-details\/school-pano@2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5637,7 +5637,7 @@
 	"\/img\/badge\/badge.png": {
 		"ft": 32768,
 		"iS": 13057,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/badge\/badge.png",
 		"oF": 0,
 		"opt": 0
@@ -5645,7 +5645,7 @@
 	"\/img\/badge\/nav-badge.png": {
 		"ft": 32768,
 		"iS": 2297,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/badge\/nav-badge.png",
 		"oF": 0,
 		"opt": 0
@@ -5653,7 +5653,7 @@
 	"\/img\/body\/hex-bg.png": {
 		"ft": 32768,
 		"iS": 10779,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/body\/hex-bg.png",
 		"oF": 0,
 		"opt": 0
@@ -5661,7 +5661,7 @@
 	"\/img\/chapel-exit\/splash-landing\/1600w.jpg": {
 		"ft": 16384,
 		"iS": 163351,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/chapel-exit\/splash-landing\/1600w.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5669,7 +5669,7 @@
 	"\/img\/chapel-exit\/splash-landing\/1920w.jpg": {
 		"ft": 16384,
 		"iS": 223812,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/chapel-exit\/splash-landing\/1920w.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5677,7 +5677,7 @@
 	"\/img\/chapel-exit\/splash-landing\/800w.jpg": {
 		"ft": 16384,
 		"iS": 63533,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/chapel-exit\/splash-landing\/800w.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5685,7 +5685,7 @@
 	"\/img\/first-dance\/gallery\/1.jpg": {
 		"ft": 16384,
 		"iS": 51606,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/first-dance\/gallery\/1.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5693,7 +5693,7 @@
 	"\/img\/first-dance\/gallery\/10.jpg": {
 		"ft": 16384,
 		"iS": 88893,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/first-dance\/gallery\/10.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5701,7 +5701,7 @@
 	"\/img\/first-dance\/gallery\/10_2x.jpg": {
 		"ft": 16384,
 		"iS": 201478,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/first-dance\/gallery\/10_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5709,7 +5709,7 @@
 	"\/img\/first-dance\/gallery\/11.jpg": {
 		"ft": 16384,
 		"iS": 54122,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/first-dance\/gallery\/11.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5717,7 +5717,7 @@
 	"\/img\/first-dance\/gallery\/11_2x.jpg": {
 		"ft": 16384,
 		"iS": 95433,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/first-dance\/gallery\/11_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5725,7 +5725,7 @@
 	"\/img\/first-dance\/gallery\/1_2x.jpg": {
 		"ft": 16384,
 		"iS": 90960,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/first-dance\/gallery\/1_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5733,7 +5733,7 @@
 	"\/img\/first-dance\/gallery\/2.jpg": {
 		"ft": 16384,
 		"iS": 55363,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/first-dance\/gallery\/2.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5741,7 +5741,7 @@
 	"\/img\/first-dance\/gallery\/2_2x.jpg": {
 		"ft": 16384,
 		"iS": 100156,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/first-dance\/gallery\/2_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5749,7 +5749,7 @@
 	"\/img\/first-dance\/gallery\/3.jpg": {
 		"ft": 16384,
 		"iS": 52713,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/first-dance\/gallery\/3.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5757,7 +5757,7 @@
 	"\/img\/first-dance\/gallery\/3_2x.jpg": {
 		"ft": 16384,
 		"iS": 93885,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/first-dance\/gallery\/3_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5765,7 +5765,7 @@
 	"\/img\/first-dance\/gallery\/4.jpg": {
 		"ft": 16384,
 		"iS": 48314,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/first-dance\/gallery\/4.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5773,7 +5773,7 @@
 	"\/img\/first-dance\/gallery\/4_2x.jpg": {
 		"ft": 16384,
 		"iS": 85400,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/first-dance\/gallery\/4_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5781,7 +5781,7 @@
 	"\/img\/first-dance\/gallery\/5.jpg": {
 		"ft": 16384,
 		"iS": 67510,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/first-dance\/gallery\/5.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5789,7 +5789,7 @@
 	"\/img\/first-dance\/gallery\/5_2x.jpg": {
 		"ft": 16384,
 		"iS": 137292,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/first-dance\/gallery\/5_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5797,7 +5797,7 @@
 	"\/img\/first-dance\/gallery\/6.jpg": {
 		"ft": 16384,
 		"iS": 66798,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/first-dance\/gallery\/6.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5805,7 +5805,7 @@
 	"\/img\/first-dance\/gallery\/6_2x.jpg": {
 		"ft": 16384,
 		"iS": 137382,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/first-dance\/gallery\/6_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5813,7 +5813,7 @@
 	"\/img\/first-dance\/gallery\/7.jpg": {
 		"ft": 16384,
 		"iS": 56523,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/first-dance\/gallery\/7.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5821,7 +5821,7 @@
 	"\/img\/first-dance\/gallery\/7_2x.jpg": {
 		"ft": 16384,
 		"iS": 102441,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/first-dance\/gallery\/7_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5829,7 +5829,7 @@
 	"\/img\/first-dance\/gallery\/8.jpg": {
 		"ft": 16384,
 		"iS": 51775,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/first-dance\/gallery\/8.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5837,7 +5837,7 @@
 	"\/img\/first-dance\/gallery\/8_2x.jpg": {
 		"ft": 16384,
 		"iS": 89364,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/first-dance\/gallery\/8_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5845,7 +5845,7 @@
 	"\/img\/first-dance\/gallery\/9.jpg": {
 		"ft": 16384,
 		"iS": 88457,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/first-dance\/gallery\/9.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5853,7 +5853,7 @@
 	"\/img\/first-dance\/gallery\/9_2x.jpg": {
 		"ft": 16384,
 		"iS": 214997,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/first-dance\/gallery\/9_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5861,7 +5861,7 @@
 	"\/img\/first-dance\/splash\/1600w.jpg": {
 		"ft": 16384,
 		"iS": 215017,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/first-dance\/splash\/1600w.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5869,7 +5869,7 @@
 	"\/img\/first-dance\/splash\/1920w.jpg": {
 		"ft": 16384,
 		"iS": 298472,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/first-dance\/splash\/1920w.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5877,7 +5877,7 @@
 	"\/img\/first-dance\/splash\/800w.jpg": {
 		"ft": 16384,
 		"iS": 64704,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/first-dance\/splash\/800w.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5885,7 +5885,7 @@
 	"\/img\/first-dance\/video\/swirl_2x.png": {
 		"ft": 32768,
 		"iS": 11563,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/first-dance\/video\/swirl_2x.png",
 		"oF": 0,
 		"opt": 0
@@ -5893,7 +5893,7 @@
 	"\/img\/first-dance\/video\/video-thumb.jpg": {
 		"ft": 16384,
 		"iS": 57511,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/first-dance\/video\/video-thumb.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5901,7 +5901,7 @@
 	"\/img\/index\/bg_default.jpg": {
 		"ft": 16384,
 		"iS": 451872,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/index\/bg_default.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5909,7 +5909,7 @@
 	"\/img\/index\/blocks\/chapel-exit\/background.png": {
 		"ft": 32768,
 		"iS": 377814,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/index\/blocks\/chapel-exit\/background.png",
 		"oF": 0,
 		"opt": 0
@@ -5917,7 +5917,7 @@
 	"\/img\/index\/blocks\/first-dance\/background.jpg": {
 		"ft": 16384,
 		"iS": 71701,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/index\/blocks\/first-dance\/background.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5925,7 +5925,7 @@
 	"\/img\/index\/blocks\/proposal-story\/background.jpg": {
 		"ft": 16384,
 		"iS": 100390,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/index\/blocks\/proposal-story\/background.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5933,7 +5933,7 @@
 	"\/img\/index\/hero\/default.jpg": {
 		"ft": 16384,
 		"iS": 137793,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/index\/hero\/default.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5941,7 +5941,7 @@
 	"\/img\/proposal-story\/assets\/circular-arrow.png": {
 		"ft": 32768,
 		"iS": 1353,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/proposal-story\/assets\/circular-arrow.png",
 		"oF": 0,
 		"opt": 0
@@ -5949,7 +5949,7 @@
 	"\/img\/proposal-story\/lock-bridge\/corinne-posing.jpg": {
 		"ft": 16384,
 		"iS": 126096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/proposal-story\/lock-bridge\/corinne-posing.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5957,7 +5957,7 @@
 	"\/img\/proposal-story\/lock-bridge\/corinne.jpg": {
 		"ft": 16384,
 		"iS": 76641,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/proposal-story\/lock-bridge\/corinne.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5965,7 +5965,7 @@
 	"\/img\/proposal-story\/lock-bridge\/corinne_2x.jpg": {
 		"ft": 16384,
 		"iS": 193748,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/proposal-story\/lock-bridge\/corinne_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5973,7 +5973,7 @@
 	"\/img\/proposal-story\/lock-bridge\/lock-bridge-map.jpg": {
 		"ft": 16384,
 		"iS": 186620,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/proposal-story\/lock-bridge\/lock-bridge-map.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5981,7 +5981,7 @@
 	"\/img\/proposal-story\/lock-bridge\/lock-bridge-selfie.jpg": {
 		"ft": 16384,
 		"iS": 88349,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/proposal-story\/lock-bridge\/lock-bridge-selfie.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5989,7 +5989,7 @@
 	"\/img\/proposal-story\/lock-bridge\/lock-bridge-view.jpg": {
 		"ft": 16384,
 		"iS": 208273,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/proposal-story\/lock-bridge\/lock-bridge-view.jpg",
 		"oF": 0,
 		"opt": 0
@@ -5997,7 +5997,7 @@
 	"\/img\/proposal-story\/lock-bridge\/lock-bridge.jpg": {
 		"ft": 16384,
 		"iS": 95109,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/proposal-story\/lock-bridge\/lock-bridge.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6005,7 +6005,7 @@
 	"\/img\/proposal-story\/lock-bridge\/lock-bridge_2x.jpg": {
 		"ft": 16384,
 		"iS": 237827,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/proposal-story\/lock-bridge\/lock-bridge_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6013,7 +6013,7 @@
 	"\/img\/proposal-story\/lock-bridge\/selfie.jpg": {
 		"ft": 16384,
 		"iS": 52491,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/proposal-story\/lock-bridge\/selfie.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6021,7 +6021,7 @@
 	"\/img\/proposal-story\/lock-bridge\/selfie_2x.jpg": {
 		"ft": 16384,
 		"iS": 123840,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/proposal-story\/lock-bridge\/selfie_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6029,7 +6029,7 @@
 	"\/img\/proposal-story\/louvre\/corinne-bench.jpg": {
 		"ft": 16384,
 		"iS": 62710,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/proposal-story\/louvre\/corinne-bench.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6037,7 +6037,7 @@
 	"\/img\/proposal-story\/louvre\/corinne-bench_2x.jpg": {
 		"ft": 16384,
 		"iS": 194584,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/proposal-story\/louvre\/corinne-bench_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6045,7 +6045,7 @@
 	"\/img\/proposal-story\/louvre\/corinne_2x.jpg": {
 		"ft": 16384,
 		"iS": 160699,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/proposal-story\/louvre\/corinne_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6053,7 +6053,7 @@
 	"\/img\/proposal-story\/louvre\/louve-pyramid.jpg": {
 		"ft": 16384,
 		"iS": 249465,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/proposal-story\/louvre\/louve-pyramid.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6061,7 +6061,7 @@
 	"\/img\/proposal-story\/louvre\/louvre-parallax.jpg": {
 		"ft": 16384,
 		"iS": 269973,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/proposal-story\/louvre\/louvre-parallax.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6069,7 +6069,7 @@
 	"\/img\/proposal-story\/louvre\/louvre-parallax_960.jpg": {
 		"ft": 16384,
 		"iS": 75642,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/proposal-story\/louvre\/louvre-parallax_960.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6077,7 +6077,7 @@
 	"\/img\/proposal-story\/louvre\/nico-bench.jpg": {
 		"ft": 16384,
 		"iS": 55822,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/proposal-story\/louvre\/nico-bench.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6085,7 +6085,7 @@
 	"\/img\/proposal-story\/louvre\/nico-bench_2x.jpg": {
 		"ft": 16384,
 		"iS": 134732,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/proposal-story\/louvre\/nico-bench_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6093,7 +6093,7 @@
 	"\/img\/proposal-story\/louvre\/nico_2x.jpg": {
 		"ft": 16384,
 		"iS": 143343,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/proposal-story\/louvre\/nico_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6101,7 +6101,7 @@
 	"\/img\/proposal-story\/louvre\/pyramid.jpg": {
 		"ft": 16384,
 		"iS": 105920,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/proposal-story\/louvre\/pyramid.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6109,7 +6109,7 @@
 	"\/img\/proposal-story\/louvre\/pyramid_2x.jpg": {
 		"ft": 16384,
 		"iS": 274456,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/proposal-story\/louvre\/pyramid_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6117,7 +6117,7 @@
 	"\/img\/proposal-story\/notre-dame\/notre-dame-facade.jpg": {
 		"ft": 16384,
 		"iS": 226686,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/proposal-story\/notre-dame\/notre-dame-facade.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6125,7 +6125,7 @@
 	"\/img\/proposal-story\/notre-dame\/notre-dame-map.jpg": {
 		"ft": 16384,
 		"iS": 183154,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/proposal-story\/notre-dame\/notre-dame-map.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6133,7 +6133,7 @@
 	"\/img\/proposal-story\/notre-dame\/notre-dame-panorama.jpg": {
 		"ft": 16384,
 		"iS": 277909,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/proposal-story\/notre-dame\/notre-dame-panorama.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6141,7 +6141,7 @@
 	"\/img\/proposal-story\/notre-dame\/notre-dame.jpg": {
 		"ft": 16384,
 		"iS": 81453,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/proposal-story\/notre-dame\/notre-dame.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6149,7 +6149,7 @@
 	"\/img\/proposal-story\/notre-dame\/notre-dame_2x.jpg": {
 		"ft": 16384,
 		"iS": 226775,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/proposal-story\/notre-dame\/notre-dame_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6157,7 +6157,7 @@
 	"\/img\/proposal-story\/ring\/ring-mobile.jpg": {
 		"ft": 16384,
 		"iS": 37502,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/proposal-story\/ring\/ring-mobile.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6165,7 +6165,7 @@
 	"\/img\/proposal-story\/ring\/ring.jpg": {
 		"ft": 16384,
 		"iS": 151089,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/proposal-story\/ring\/ring.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6173,7 +6173,7 @@
 	"\/img\/proposal-story\/ring\/ring_650.jpg": {
 		"ft": 16384,
 		"iS": 53091,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/proposal-story\/ring\/ring_650.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6181,7 +6181,7 @@
 	"\/img\/proposal-story\/ring\/ring_970.jpg": {
 		"ft": 16384,
 		"iS": 94732,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/proposal-story\/ring\/ring_970.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6189,7 +6189,7 @@
 	"\/img\/proposal-story\/sacre-coeur\/church-portrait.jpg": {
 		"ft": 16384,
 		"iS": 34023,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/proposal-story\/sacre-coeur\/church-portrait.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6197,7 +6197,7 @@
 	"\/img\/proposal-story\/sacre-coeur\/church-portrait_2x.jpg": {
 		"ft": 16384,
 		"iS": 102553,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/proposal-story\/sacre-coeur\/church-portrait_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6205,7 +6205,7 @@
 	"\/img\/proposal-story\/sacre-coeur\/church-selfie.jpg": {
 		"ft": 16384,
 		"iS": 28387,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/proposal-story\/sacre-coeur\/church-selfie.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6213,7 +6213,7 @@
 	"\/img\/proposal-story\/sacre-coeur\/church-selfie_2x.jpg": {
 		"ft": 16384,
 		"iS": 83069,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/proposal-story\/sacre-coeur\/church-selfie_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6221,7 +6221,7 @@
 	"\/img\/proposal-story\/sacre-coeur\/sacre-coeur-hill.jpg": {
 		"ft": 16384,
 		"iS": 19776,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/proposal-story\/sacre-coeur\/sacre-coeur-hill.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6229,7 +6229,7 @@
 	"\/img\/proposal-story\/sacre-coeur\/sacre-coeur-hill_2x.jpg": {
 		"ft": 16384,
 		"iS": 56356,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/proposal-story\/sacre-coeur\/sacre-coeur-hill_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6237,7 +6237,7 @@
 	"\/img\/proposal-story\/sacre-coeur\/sacre-coeur.jpg": {
 		"ft": 16384,
 		"iS": 208019,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/proposal-story\/sacre-coeur\/sacre-coeur.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6257,7 +6257,7 @@
 	"\/img\/proposal-story\/video\/splash\/mobile\/landscape.gif": {
 		"ft": 4194304,
 		"iS": 667712,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/proposal-story\/video\/splash\/mobile\/landscape.gif",
 		"oF": 0,
 		"opt": 0
@@ -6265,7 +6265,7 @@
 	"\/img\/proposal-story\/video\/splash\/mobile\/square.gif": {
 		"ft": 4194304,
 		"iS": 552707,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/proposal-story\/video\/splash\/mobile\/square.gif",
 		"oF": 0,
 		"opt": 0
@@ -6273,15 +6273,135 @@
 	"\/img\/proposal-story\/video\/splash\/poster.jpg": {
 		"ft": 16384,
 		"iS": 170723,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/proposal-story\/video\/splash\/poster.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/the-send-off\/gallery\/1.jpg": {
+		"ft": 16384,
+		"iS": 55517,
+		"oA": 1,
+		"oAP": "\/img\/the-send-off\/gallery\/1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/the-send-off\/gallery\/1_2x.jpg": {
+		"ft": 16384,
+		"iS": 113198,
+		"oA": 1,
+		"oAP": "\/img\/the-send-off\/gallery\/1_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/the-send-off\/gallery\/2.jpg": {
+		"ft": 16384,
+		"iS": 57258,
+		"oA": 1,
+		"oAP": "\/img\/the-send-off\/gallery\/2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/the-send-off\/gallery\/2_2x.jpg": {
+		"ft": 16384,
+		"iS": 118854,
+		"oA": 1,
+		"oAP": "\/img\/the-send-off\/gallery\/2_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/the-send-off\/gallery\/3.jpg": {
+		"ft": 16384,
+		"iS": 115495,
+		"oA": 1,
+		"oAP": "\/img\/the-send-off\/gallery\/3.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/the-send-off\/gallery\/3_2x.jpg": {
+		"ft": 16384,
+		"iS": 149485,
+		"oA": 1,
+		"oAP": "\/img\/the-send-off\/gallery\/3_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/the-send-off\/gallery\/4.jpg": {
+		"ft": 16384,
+		"iS": 50086,
+		"oA": 1,
+		"oAP": "\/img\/the-send-off\/gallery\/4.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/the-send-off\/gallery\/4_2x.jpg": {
+		"ft": 16384,
+		"iS": 99537,
+		"oA": 1,
+		"oAP": "\/img\/the-send-off\/gallery\/4_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/the-send-off\/gallery\/5.jpg": {
+		"ft": 16384,
+		"iS": 66233,
+		"oA": 1,
+		"oAP": "\/img\/the-send-off\/gallery\/5.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/the-send-off\/gallery\/5_2x.jpg": {
+		"ft": 16384,
+		"iS": 145618,
+		"oA": 1,
+		"oAP": "\/img\/the-send-off\/gallery\/5_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/the-send-off\/gallery\/6.jpg": {
+		"ft": 16384,
+		"iS": 56562,
+		"oA": 1,
+		"oAP": "\/img\/the-send-off\/gallery\/6.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/the-send-off\/gallery\/6_2x.jpg": {
+		"ft": 16384,
+		"iS": 90736,
+		"oA": 1,
+		"oAP": "\/img\/the-send-off\/gallery\/6_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/the-send-off\/splash\/1600w.jpg": {
+		"ft": 16384,
+		"iS": 100709,
+		"oA": 1,
+		"oAP": "\/img\/the-send-off\/splash\/1600w.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/the-send-off\/splash\/1920w.jpg": {
+		"ft": 16384,
+		"iS": 138718,
+		"oA": 1,
+		"oAP": "\/img\/the-send-off\/splash\/1920w.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/the-send-off\/splash\/800w.jpg": {
+		"ft": 16384,
+		"iS": 47676,
+		"oA": 1,
+		"oAP": "\/img\/the-send-off\/splash\/800w.jpg",
 		"oF": 0,
 		"opt": 0
 		},
 	"\/img\/wedding-album\/assets\/bg\/hex-bg.png": {
 		"ft": 32768,
 		"iS": 10779,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/assets\/bg\/hex-bg.png",
 		"oF": 0,
 		"opt": 0
@@ -6289,7 +6409,7 @@
 	"\/img\/wedding-album\/assets\/bg\/hex_bg-1.png": {
 		"ft": 32768,
 		"iS": 4989,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/assets\/bg\/hex_bg-1.png",
 		"oF": 0,
 		"opt": 0
@@ -6297,7 +6417,7 @@
 	"\/img\/wedding-album\/bridals\/1.jpg": {
 		"ft": 16384,
 		"iS": 66322,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/bridals\/1.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6305,7 +6425,7 @@
 	"\/img\/wedding-album\/bridals\/1_2x.jpg": {
 		"ft": 16384,
 		"iS": 141100,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/bridals\/1_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6313,7 +6433,7 @@
 	"\/img\/wedding-album\/bridals\/2.jpg": {
 		"ft": 16384,
 		"iS": 57244,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/bridals\/2.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6321,7 +6441,7 @@
 	"\/img\/wedding-album\/bridals\/2_2x.jpg": {
 		"ft": 16384,
 		"iS": 123997,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/bridals\/2_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6329,7 +6449,7 @@
 	"\/img\/wedding-album\/bridals\/3.jpg": {
 		"ft": 16384,
 		"iS": 60175,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/bridals\/3.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6337,7 +6457,7 @@
 	"\/img\/wedding-album\/bridals\/3_2x.jpg": {
 		"ft": 16384,
 		"iS": 98101,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/bridals\/3_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6345,7 +6465,7 @@
 	"\/img\/wedding-album\/bridals\/4.jpg": {
 		"ft": 16384,
 		"iS": 104107,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/bridals\/4.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6353,7 +6473,7 @@
 	"\/img\/wedding-album\/bridals\/4_2x.jpg": {
 		"ft": 16384,
 		"iS": 235255,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/bridals\/4_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6361,7 +6481,7 @@
 	"\/img\/wedding-album\/bridals\/5.jpg": {
 		"ft": 16384,
 		"iS": 124447,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/bridals\/5.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6369,7 +6489,7 @@
 	"\/img\/wedding-album\/bridals\/5_2x.jpg": {
 		"ft": 16384,
 		"iS": 293367,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/bridals\/5_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6377,7 +6497,7 @@
 	"\/img\/wedding-album\/bridals\/6.jpg": {
 		"ft": 16384,
 		"iS": 284916,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/bridals\/6.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6385,7 +6505,7 @@
 	"\/img\/wedding-album\/bridals\/6_2x.jpg": {
 		"ft": 16384,
 		"iS": 692252,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/bridals\/6_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6393,7 +6513,7 @@
 	"\/img\/wedding-album\/first-dance\/first-dance-swirl.png": {
 		"ft": 32768,
 		"iS": 5331,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/first-dance\/first-dance-swirl.png",
 		"oF": 0,
 		"opt": 0
@@ -6401,7 +6521,7 @@
 	"\/img\/wedding-album\/first-dance\/first-dance-swirl_2x.png": {
 		"ft": 32768,
 		"iS": 11563,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/first-dance\/first-dance-swirl_2x.png",
 		"oF": 0,
 		"opt": 0
@@ -6409,7 +6529,7 @@
 	"\/img\/wedding-album\/first-look\/1.jpg": {
 		"ft": 16384,
 		"iS": 95443,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/first-look\/1.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6417,7 +6537,7 @@
 	"\/img\/wedding-album\/first-look\/1_2x.jpg": {
 		"ft": 16384,
 		"iS": 170823,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/first-look\/1_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6425,7 +6545,7 @@
 	"\/img\/wedding-album\/first-look\/2.jpg": {
 		"ft": 16384,
 		"iS": 35358,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/first-look\/2.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6433,7 +6553,7 @@
 	"\/img\/wedding-album\/first-look\/2_2x.jpg": {
 		"ft": 16384,
 		"iS": 115094,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/first-look\/2_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6441,7 +6561,7 @@
 	"\/img\/wedding-album\/first-look\/swirl.png": {
 		"ft": 32768,
 		"iS": 13069,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/first-look\/swirl.png",
 		"oF": 0,
 		"opt": 0
@@ -6449,7 +6569,7 @@
 	"\/img\/wedding-album\/hair-makeup\/1.jpg": {
 		"ft": 16384,
 		"iS": 93267,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/hair-makeup\/1.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6457,7 +6577,7 @@
 	"\/img\/wedding-album\/hair-makeup\/10.jpg": {
 		"ft": 16384,
 		"iS": 134153,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/hair-makeup\/10.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6465,7 +6585,7 @@
 	"\/img\/wedding-album\/hair-makeup\/10_2x.jpg": {
 		"ft": 16384,
 		"iS": 177762,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/hair-makeup\/10_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6473,7 +6593,7 @@
 	"\/img\/wedding-album\/hair-makeup\/11.jpg": {
 		"ft": 16384,
 		"iS": 138698,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/hair-makeup\/11.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6481,7 +6601,7 @@
 	"\/img\/wedding-album\/hair-makeup\/11_2x.jpg": {
 		"ft": 16384,
 		"iS": 184289,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/hair-makeup\/11_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6489,7 +6609,7 @@
 	"\/img\/wedding-album\/hair-makeup\/12.jpg": {
 		"ft": 16384,
 		"iS": 115526,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/hair-makeup\/12.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6497,7 +6617,7 @@
 	"\/img\/wedding-album\/hair-makeup\/12_2x.jpg": {
 		"ft": 16384,
 		"iS": 151831,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/hair-makeup\/12_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6505,7 +6625,7 @@
 	"\/img\/wedding-album\/hair-makeup\/1_2x.jpg": {
 		"ft": 16384,
 		"iS": 115508,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/hair-makeup\/1_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6513,7 +6633,7 @@
 	"\/img\/wedding-album\/hair-makeup\/2.jpg": {
 		"ft": 16384,
 		"iS": 91692,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/hair-makeup\/2.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6521,7 +6641,7 @@
 	"\/img\/wedding-album\/hair-makeup\/2_2x.jpg": {
 		"ft": 16384,
 		"iS": 118906,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/hair-makeup\/2_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6529,7 +6649,7 @@
 	"\/img\/wedding-album\/hair-makeup\/3.jpg": {
 		"ft": 16384,
 		"iS": 97054,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/hair-makeup\/3.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6537,7 +6657,7 @@
 	"\/img\/wedding-album\/hair-makeup\/3_2x.jpg": {
 		"ft": 16384,
 		"iS": 126020,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/hair-makeup\/3_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6545,7 +6665,7 @@
 	"\/img\/wedding-album\/hair-makeup\/4.jpg": {
 		"ft": 16384,
 		"iS": 85609,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/hair-makeup\/4.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6553,7 +6673,7 @@
 	"\/img\/wedding-album\/hair-makeup\/4_2x.jpg": {
 		"ft": 16384,
 		"iS": 110433,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/hair-makeup\/4_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6561,7 +6681,7 @@
 	"\/img\/wedding-album\/hair-makeup\/5.jpg": {
 		"ft": 16384,
 		"iS": 80795,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/hair-makeup\/5.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6569,7 +6689,7 @@
 	"\/img\/wedding-album\/hair-makeup\/5_2x.jpg": {
 		"ft": 16384,
 		"iS": 105518,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/hair-makeup\/5_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6577,7 +6697,7 @@
 	"\/img\/wedding-album\/hair-makeup\/6.jpg": {
 		"ft": 16384,
 		"iS": 85680,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/hair-makeup\/6.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6585,7 +6705,7 @@
 	"\/img\/wedding-album\/hair-makeup\/6_2x.jpg": {
 		"ft": 16384,
 		"iS": 115668,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/hair-makeup\/6_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6593,7 +6713,7 @@
 	"\/img\/wedding-album\/hair-makeup\/7.jpg": {
 		"ft": 16384,
 		"iS": 87029,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/hair-makeup\/7.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6601,7 +6721,7 @@
 	"\/img\/wedding-album\/hair-makeup\/7_2x.jpg": {
 		"ft": 16384,
 		"iS": 115603,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/hair-makeup\/7_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6609,7 +6729,7 @@
 	"\/img\/wedding-album\/hair-makeup\/8.jpg": {
 		"ft": 16384,
 		"iS": 80155,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/hair-makeup\/8.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6617,7 +6737,7 @@
 	"\/img\/wedding-album\/hair-makeup\/8_2x.jpg": {
 		"ft": 16384,
 		"iS": 100366,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/hair-makeup\/8_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6625,7 +6745,7 @@
 	"\/img\/wedding-album\/hair-makeup\/9.jpg": {
 		"ft": 16384,
 		"iS": 69609,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/hair-makeup\/9.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6633,7 +6753,7 @@
 	"\/img\/wedding-album\/hair-makeup\/9_2x.jpg": {
 		"ft": 16384,
 		"iS": 91175,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/hair-makeup\/9_2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6641,7 +6761,7 @@
 	"\/img\/wedding-album\/header\/program-mockup.jpg": {
 		"ft": 16384,
 		"iS": 74219,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/header\/program-mockup.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6649,7 +6769,7 @@
 	"\/img\/wedding-album\/header\/program-mockup@1100.jpg": {
 		"ft": 16384,
 		"iS": 62632,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/header\/program-mockup@1100.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6657,7 +6777,7 @@
 	"\/img\/wedding-album\/header\/program-mockup@700.jpg": {
 		"ft": 16384,
 		"iS": 31563,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-album\/header\/program-mockup@700.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6665,7 +6785,7 @@
 	"\/img\/wedding-details\/bg@default.jpg": {
 		"ft": 16384,
 		"iS": 415852,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-details\/bg@default.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6673,7 +6793,7 @@
 	"\/img\/wedding-details\/chapel-entrance.jpg": {
 		"ft": 16384,
 		"iS": 35869,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-details\/chapel-entrance.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6681,7 +6801,7 @@
 	"\/img\/wedding-details\/chapel-entrance@2x.jpg": {
 		"ft": 16384,
 		"iS": 140733,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-details\/chapel-entrance@2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6689,7 +6809,7 @@
 	"\/img\/wedding-details\/chapel-map@2x.png": {
 		"ft": 32768,
 		"iS": 480505,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-details\/chapel-map@2x.png",
 		"oF": 0,
 		"opt": 0
@@ -6697,7 +6817,7 @@
 	"\/img\/wedding-details\/chapel-street@2x.png": {
 		"ft": 32768,
 		"iS": 852350,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-details\/chapel-street@2x.png",
 		"oF": 0,
 		"opt": 0
@@ -6705,7 +6825,7 @@
 	"\/img\/wedding-details\/church-map@2x.png": {
 		"ft": 32768,
 		"iS": 481838,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-details\/church-map@2x.png",
 		"oF": 0,
 		"opt": 0
@@ -6713,7 +6833,7 @@
 	"\/img\/wedding-details\/church-street@2x.png": {
 		"ft": 32768,
 		"iS": 692454,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-details\/church-street@2x.png",
 		"oF": 0,
 		"opt": 0
@@ -6721,7 +6841,7 @@
 	"\/img\/wedding-details\/reception\/ballroom.jpg": {
 		"ft": 16384,
 		"iS": 46002,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-details\/reception\/ballroom.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6729,7 +6849,7 @@
 	"\/img\/wedding-details\/reception\/ballroom@2x.jpg": {
 		"ft": 16384,
 		"iS": 61261,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-details\/reception\/ballroom@2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6737,7 +6857,7 @@
 	"\/img\/wedding-details\/reception\/brennans-street.jpg": {
 		"ft": 16384,
 		"iS": 85284,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-details\/reception\/brennans-street.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6745,7 +6865,7 @@
 	"\/img\/wedding-details\/reception\/brennans-street@2x.jpg": {
 		"ft": 16384,
 		"iS": 160443,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-details\/reception\/brennans-street@2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6753,7 +6873,7 @@
 	"\/img\/wedding-details\/reception\/exterior.jpg": {
 		"ft": 16384,
 		"iS": 56339,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-details\/reception\/exterior.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6761,7 +6881,7 @@
 	"\/img\/wedding-details\/reception\/exterior@2x.jpg": {
 		"ft": 16384,
 		"iS": 167666,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-details\/reception\/exterior@2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6769,7 +6889,7 @@
 	"\/img\/wedding-details\/school-building.jpg": {
 		"ft": 16384,
 		"iS": 82550,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-details\/school-building.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6777,7 +6897,7 @@
 	"\/img\/wedding-details\/school-building@2x.jpg": {
 		"ft": 16384,
 		"iS": 287461,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-details\/school-building@2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6785,7 +6905,7 @@
 	"\/img\/wedding-details\/school-pano.jpg": {
 		"ft": 16384,
 		"iS": 59945,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-details\/school-pano.jpg",
 		"oF": 0,
 		"opt": 0
@@ -6793,7 +6913,7 @@
 	"\/img\/wedding-details\/school-pano@2x.jpg": {
 		"ft": 16384,
 		"iS": 224081,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/wedding-details\/school-pano@2x.jpg",
 		"oF": 0,
 		"opt": 0
@@ -7187,6 +7307,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/pages\/index.php",
+		"oF": 0
+		},
+	"\/src\/pages\/the-send-off.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/pages\/the-send-off.php",
 		"oF": 0
 		},
 	"\/src\/partials\/_notes.txt": {
@@ -8913,7 +9039,7 @@
 		"shouldRunBless": 0
 		},
 	"languageDefaultsGIF": {
-		"autoOutputAction": 0,
+		"autoOutputAction": 1,
 		"autoOutputPathFilenamePattern": "*.gif",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
@@ -8936,7 +9062,7 @@
 		"useUnixNewlines": 0
 		},
 	"languageDefaultsJPG": {
-		"autoOutputAction": 0,
+		"autoOutputAction": 1,
 		"autoOutputPathFilenamePattern": "*.jpg",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
@@ -9029,7 +9155,7 @@
 		"autoOutputPathStyle": 0
 		},
 	"languageDefaultsPNG": {
-		"autoOutputAction": 0,
+		"autoOutputAction": 1,
 		"autoOutputPathFilenamePattern": "*.png",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
