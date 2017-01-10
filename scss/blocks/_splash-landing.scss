@@ -8,6 +8,8 @@ $max-420: "only screen and (max-width : 26.250em)";
 	position: relative;
 	box-shadow: $z-3;
 
+	margin-bottom: rem-calc(70);
+
 	h1 {
 		font-size: rem-calc(110);
 		line-height: 1;
