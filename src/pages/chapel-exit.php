@@ -36,4 +36,16 @@ body-class:
 			</div>
 		</div>
 	</section>
+	<section>
+		<div class="row">
+			<div class="medium-6 columns photoGallery">
+				<img srcset="/img/chapel-exit/gallery/6_2x.jpg 2x" src="/img/chapel-exit/gallery/6.jpg" alt="Nico &amp; Corinne in the limo!">
+			</div>
+			<div class="medium-6 columns">
+				<div class="show-for-large bumper-space"></div>
+				<h2 class="heading-bold">Into the limo!</h2>
+				<h3>I’m on my knees and Corinne is standing.</h3>
+			</div>
+		</div>
+	</section>
 </main>
