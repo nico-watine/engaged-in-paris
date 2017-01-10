@@ -12,13 +12,14 @@ body-class:
 	<h1 class="heading-bold">Chapel Exit</h1>
 	<img src="{{ cdn }}/img/chapel-exit/splash-landing/1920w.jpg" alt="Nico &amp; Corinne's Chapel-Tunnel Exit">
 </section>
+<div class="bumper-space"></div>
 <main>
 	<div class="row">
 		<div class="small-12 columns">
 			<h3>This is us exiting the chapel after the wedding ceremony. Oh and there’s me, four steps behind Corinne, holding her enourmous veil!</h3>
 		</div>
 	</div>
-	<div class="bumper-bottom"></div>
+	<div class="bumper-space"></div>
 	<section class="photoGallery">
 		<div class="row">
 			<div class="medium-6 large-3 columns">
