@@ -20,6 +20,19 @@ body-class:
 		</div>
 	</div>
 	<div class="bumper-space"></div>
+	<section class="videoContainer">
+		<div class="row">
+			<div class="medium-6 large-4 columns">
+				<img class="photo" srcset="/img/chapel-exit/gallery/5_2x.jpg 2x" src="/img/chapel-exit/gallery/5.jpg" alt="Nico &amp; Corinne's Chapel-Tunnel Exit">
+			</div>
+			<div class="medium-6 large-4 columns">
+				
+			</div>
+			<div class="medium-12 large-4 columns">
+				<h3 class="textShadow-black"><span class="heading-bold" style="font-size: 45px;">Shout out </span>to Isaac for shooting this great clip of our “tunnel” exit!</h3>
+			</div>
+		</div>
+	</section>
 	<section class="photoGallery">
 		<div class="row">
 			<div class="medium-6 large-3 columns">

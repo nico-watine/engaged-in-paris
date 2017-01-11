@@ -2261,7 +2261,7 @@ body { background: #fff url("/img/body/hex-bg.png") left top/auto repeat; }
 
 @media only screen and (max-width: 26.25em) { .splash-landing h1 { font-size: 2.5rem; } }
 
-.videoContainer { background: rgba(68, 68, 68, 0.8); border-bottom: 0.5rem solid #F6C949; margin-bottom: 4.375rem; }
+.videoContainer { background: rgba(68, 68, 68, 0.8); border-bottom: 0.5rem solid #F6C949; border-top: 0.5rem solid #F6C949; margin-bottom: 4.375rem; }
 
 .videoContainer .row { background: url("/img/first-dance/video/swirl_2x.png") 20px 0/200px auto no-repeat; padding: 3.125rem 0; }
 
@@ -2272,6 +2272,8 @@ body { background: #fff url("/img/body/hex-bg.png") left top/auto repeat; }
 .photoGallery { text-align: center; }
 
 .photoGallery img { margin-bottom: 3.125rem; border: 0.25rem solid #fff; box-shadow: 0 0.125rem 0.125rem 0 rgba(0, 0, 0, 0.2), 0 0.375rem 0.625rem 0 rgba(0, 0, 0, 0.3); }
+
+img.photo { border: 0.25rem solid #fff; box-shadow: 0 0.125rem 0.125rem 0 rgba(0, 0, 0, 0.2), 0 0.375rem 0.625rem 0 rgba(0, 0, 0, 0.3); }
 
 .videoContainer--iframeWrapper#first-dance-video-embed { background: #fff url("/img/first-dance/video/video-thumb.jpg") center center/cover no-repeat; }
 
