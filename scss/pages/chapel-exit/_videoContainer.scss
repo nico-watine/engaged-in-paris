@@ -1,0 +1,13 @@
+@import "../../_settings.scss";
+
+#chapel-exit-video {
+	video {
+		max-width: 100%;
+		height: auto;
+
+		@include breakpoint(large) {
+			width: rem-calc(260);
+		}
+	}
+}
+

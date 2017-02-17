@@ -1,6 +1,12 @@
 @import "../_settings.scss";
 
 
+.bumper-space {
+	height: rem-calc(70);
+	display: block;
+}
+
+
 // NO PADDING
 .p-0 {
 	padding: 0;
