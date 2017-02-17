@@ -22,13 +22,16 @@ body-class:
 	<div class="bumper-space"></div>
 	<section class="videoContainer">
 		<div class="row">
-			<div class="medium-6 large-4 columns">
+			<div class="medium-7 large-4 columns text-center" style="margin-bottom: 40px;">
 				<img class="photo" srcset="/img/chapel-exit/gallery/5_2x.jpg 2x" src="/img/chapel-exit/gallery/5.jpg" alt="Nico &amp; Corinne's Chapel-Tunnel Exit">
 			</div>
-			<div class="medium-6 large-4 columns">
-				
+			<div class="medium-5 large-4 columns text-center" id="chapel-exit-video">
+				<video controls>
+					<source src="/img/chapel-exit/video/chapel-exit.mp4" type="video/mp4">
+					<!-- <source src="movie.ogg" type="video/ogg"> -->
+				</video>
 			</div>
-			<div class="medium-12 large-4 columns">
+			<div class="medium-12 large-4 columns text-center medium-text-left" style="margin-top: 40px;">
 				<h3 class="textShadow-black"><span class="heading-bold" style="font-size: 45px;">Shout out </span>to Isaac for shooting this great clip of our “tunnel” exit!</h3>
 			</div>
 		</div>
