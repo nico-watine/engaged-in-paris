@@ -10,5 +10,5 @@ body-class: first-look
 ---
 <section class="splash-landing textShadow-black">
 	<h1 class="heading-bold">First Look</h1>
-	<img src="" alt="Nico &amp; Corinne's First Look'">
+	<img src="{{ cdn }}/img/first-look/splash/1920w.jpg" alt="Nico &amp; Corinne's First Look'">
 </section>
