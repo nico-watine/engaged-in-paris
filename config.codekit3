@@ -4068,6 +4068,12 @@
 		"oAP": "\/dist\/first-dance.php",
 		"oF": 0
 		},
+	"\/dist\/first-look.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/first-look.php",
+		"oF": 0
+		},
 	"\/dist\/fonts\/avenir-next\/400\/avenir-next.eot": {
 		"ft": 8192,
 		"oA": 2,
@@ -4513,6 +4519,30 @@
 		"iS": 57511,
 		"oA": 1,
 		"oAP": "\/dist\/img\/first-dance\/video\/video-thumb.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/first-look\/splash\/1600w.jpg": {
+		"ft": 16384,
+		"iS": 272159,
+		"oA": 1,
+		"oAP": "\/dist\/img\/first-look\/splash\/1600w.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/first-look\/splash\/1920w.jpg": {
+		"ft": 16384,
+		"iS": 367939,
+		"oA": 1,
+		"oAP": "\/dist\/img\/first-look\/splash\/1920w.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/first-look\/splash\/800w.jpg": {
+		"ft": 16384,
+		"iS": 96279,
+		"oA": 1,
+		"oAP": "\/dist\/img\/first-look\/splash\/800w.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -6038,6 +6068,30 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/img\/first-look\/splash\/1600w.jpg": {
+		"ft": 16384,
+		"iS": 272159,
+		"oA": 1,
+		"oAP": "\/img\/first-look\/splash\/1600w.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/first-look\/splash\/1920w.jpg": {
+		"ft": 16384,
+		"iS": 372509,
+		"oA": 1,
+		"oAP": "\/img\/first-look\/splash\/1920w.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/first-look\/splash\/800w.jpg": {
+		"ft": 16384,
+		"iS": 98056,
+		"oA": 1,
+		"oAP": "\/img\/first-look\/splash\/800w.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/img\/index\/bg_default.jpg": {
 		"ft": 16384,
 		"iS": 451872,
@@ -7467,6 +7521,12 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/src\/pages\/first-dance.php",
+		"oF": 0
+		},
+	"\/src\/pages\/first-look.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/pages\/first-look.php",
 		"oF": 0
 		},
 	"\/src\/pages\/index.php": {
