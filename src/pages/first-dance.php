@@ -22,13 +22,13 @@ body-class: first-dance
 	</div>
 </section>
 <div class="expanded row text-center collapse">
-	<div class="medium-4 columns">
+	<div class="medium-4 columns" style="border-bottom: 4px solid #555;">
 		<img src="{{ cdn }}/img/first-dance/gallery/1_2x.jpg" alt="Nico &amp; Corinne's First Dance">
 	</div>
-	<div class="medium-4 columns">
+	<div class="medium-4 columns" style="border-bottom: 4px solid #555;">
 		<img src="{{ cdn }}/img/first-dance/gallery/2_2x.jpg" alt="Nico &amp; Corinne's First Dance">
 	</div>
-	<div class="medium-4 columns">
+	<div class="medium-4 columns" style="border-bottom: 4px solid #555;">
 		<img src="{{ cdn }}/img/first-dance/gallery/3_2x.jpg" alt="Nico &amp; Corinne's First Dance">
 	</div>
 </div>
