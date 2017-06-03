@@ -49,7 +49,7 @@ body-class: first-dance
 	</div>
 </div>
 <div class="expanded row collapse text-center" style="border-bottom: 4px solid #555;">
-	<div class="medium-10 medium-push-1 large-8 large-push-2 columns">
+	<div class="small-12 columns">
 		<img src="{{ cdn }}/img/first-dance/gallery/9_2x.jpg" alt="Nico &amp; Corinne's First Dance">
 	</div>
 </div>
