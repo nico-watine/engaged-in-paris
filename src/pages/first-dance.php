@@ -21,23 +21,31 @@ body-class: first-dance
 		</div>
 	</div>
 </section>
+<!-- <section class="photoGallery"> -->
+	<div class="expanded row text-center collapse">
+		<div class="medium-4 columns">
+			<img src="{{ cdn }}/img/first-dance/gallery/1_2x.jpg" alt="Nico &amp; Corinne's First Dance">
+			<!-- <img srcset="{{ cdn }}/img/first-dance/gallery/1_2x.jpg 2x" src="{{ cdn }}/img/first-dance/gallery/1.jpg" alt="Nico &amp; Corinne's First Dance"> -->
+		</div>
+		<div class="medium-4 columns">
+		<img src="{{ cdn }}/img/first-dance/gallery/2_2x.jpg" alt="Nico &amp; Corinne's First Dance">
+			<!-- <img srcset="{{ cdn }}/img/first-dance/gallery/2_2x.jpg 2x" src="{{ cdn }}/img/first-dance/gallery/2.jpg" alt="Nico &amp; Corinne's First Dance"> -->
+		</div>
+		<div class="medium-4 columns">
+			<img src="{{ cdn }}/img/first-dance/gallery/3_2x.jpg" alt="Nico &amp; Corinne's First Dance">
+			<!-- <img srcset="{{ cdn }}/img/first-dance/gallery/3_2x.jpg 2x" src="{{ cdn }}/img/first-dance/gallery/3.jpg" alt="Nico &amp; Corinne's First Dance"> -->
+		</div>
+	</div>
+<!-- </section> -->
+<!-- <section class="photoGallery"> -->
+	<div class="expanded row text-center collapse" style="margin-bottom: 100px;">
+		<!-- <div class="medium-10 medium-push-1 large-8 large-push-2 columns"> -->
+		<div class="small-12 columns">
+			<img src="{{ cdn }}/img/first-dance/gallery/10_2x.jpg" alt="Nico &amp; Corinne's First Dance">
+			<!-- <img srcset="{{ cdn }}/img/first-dance/gallery/10_2x.jpg 2x" src="{{ cdn }}/img/first-dance/gallery/10.jpg" alt="Nico &amp; Corinne's First Dance"> -->
+		</div>
+	</div>
 <section class="photoGallery">
-	<div class="row">
-		<div class="medium-4 columns">
-			<img srcset="{{ cdn }}/img/first-dance/gallery/1_2x.jpg 2x" src="{{ cdn }}/img/first-dance/gallery/1.jpg" alt="Nico &amp; Corinne's First Dance">
-		</div>
-		<div class="medium-4 columns">
-			<img srcset="{{ cdn }}/img/first-dance/gallery/2_2x.jpg 2x" src="{{ cdn }}/img/first-dance/gallery/2.jpg" alt="Nico &amp; Corinne's First Dance">
-		</div>
-		<div class="medium-4 columns">
-			<img srcset="{{ cdn }}/img/first-dance/gallery/3_2x.jpg 2x" src="{{ cdn }}/img/first-dance/gallery/3.jpg" alt="Nico &amp; Corinne's First Dance">
-		</div>
-	</div>
-	<div class="row">
-		<div class="medium-10 medium-push-1 large-8 large-push-2 columns">
-			<img srcset="{{ cdn }}/img/first-dance/gallery/10_2x.jpg 2x" src="{{ cdn }}/img/first-dance/gallery/10.jpg" alt="Nico &amp; Corinne's First Dance">
-		</div>
-	</div>
 	<div class="row">
 		<div class="medium-4 columns">
 			<img srcset="{{ cdn }}/img/first-dance/gallery/4_2x.jpg 2x" src="{{ cdn }}/img/first-dance/gallery/4.jpg" alt="Nico &amp; Corinne's First Dance">
