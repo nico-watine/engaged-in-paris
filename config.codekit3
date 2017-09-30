@@ -4560,7 +4560,7 @@
 		},
 	"\/dist\/img\/first-dance\/gallery\/1.jpg": {
 		"ft": 16384,
-		"iS": 193210,
+		"iS": 51606,
 		"oA": 1,
 		"oAP": "\/dist\/img\/first-dance\/gallery\/1.jpg",
 		"oF": 0,
@@ -4570,7 +4570,7 @@
 		},
 	"\/dist\/img\/first-dance\/gallery\/10.jpg": {
 		"ft": 16384,
-		"iS": 265122,
+		"iS": 88893,
 		"oA": 1,
 		"oAP": "\/dist\/img\/first-dance\/gallery\/10.jpg",
 		"oF": 0,
@@ -4578,11 +4578,31 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/dist\/img\/first-dance\/gallery\/10_2x.jpg": {
+		"ft": 16384,
+		"iS": 201478,
+		"oA": 1,
+		"oAP": "\/dist\/img\/first-dance\/gallery\/10_2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/dist\/img\/first-dance\/gallery\/11.jpg": {
 		"ft": 16384,
-		"iS": 267126,
+		"iS": 54122,
 		"oA": 1,
 		"oAP": "\/dist\/img\/first-dance\/gallery\/11.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/first-dance\/gallery\/11_2x.jpg": {
+		"ft": 16384,
+		"iS": 95433,
+		"oA": 1,
+		"oAP": "\/dist\/img\/first-dance\/gallery\/11_2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -4668,9 +4688,19 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/dist\/img\/first-dance\/gallery\/1_2x.jpg": {
+		"ft": 16384,
+		"iS": 90960,
+		"oA": 1,
+		"oAP": "\/dist\/img\/first-dance\/gallery\/1_2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/dist\/img\/first-dance\/gallery\/2.jpg": {
 		"ft": 16384,
-		"iS": 212441,
+		"iS": 55363,
 		"oA": 1,
 		"oAP": "\/dist\/img\/first-dance\/gallery\/2.jpg",
 		"oF": 0,
@@ -4718,9 +4748,19 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/dist\/img\/first-dance\/gallery\/2_2x.jpg": {
+		"ft": 16384,
+		"iS": 100156,
+		"oA": 1,
+		"oAP": "\/dist\/img\/first-dance\/gallery\/2_2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/dist\/img\/first-dance\/gallery\/3.jpg": {
 		"ft": 16384,
-		"iS": 197934,
+		"iS": 52713,
 		"oA": 1,
 		"oAP": "\/dist\/img\/first-dance\/gallery\/3.jpg",
 		"oF": 0,
@@ -4728,9 +4768,19 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/dist\/img\/first-dance\/gallery\/3_2x.jpg": {
+		"ft": 16384,
+		"iS": 93885,
+		"oA": 1,
+		"oAP": "\/dist\/img\/first-dance\/gallery\/3_2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/dist\/img\/first-dance\/gallery\/4.jpg": {
 		"ft": 16384,
-		"iS": 177250,
+		"iS": 48314,
 		"oA": 1,
 		"oAP": "\/dist\/img\/first-dance\/gallery\/4.jpg",
 		"oF": 0,
@@ -4738,9 +4788,19 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/dist\/img\/first-dance\/gallery\/4_2x.jpg": {
+		"ft": 16384,
+		"iS": 85400,
+		"oA": 1,
+		"oAP": "\/dist\/img\/first-dance\/gallery\/4_2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/dist\/img\/first-dance\/gallery\/5.jpg": {
 		"ft": 16384,
-		"iS": 168980,
+		"iS": 67510,
 		"oA": 1,
 		"oAP": "\/dist\/img\/first-dance\/gallery\/5.jpg",
 		"oF": 0,
@@ -4748,9 +4808,19 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/dist\/img\/first-dance\/gallery\/5_2x.jpg": {
+		"ft": 16384,
+		"iS": 137292,
+		"oA": 1,
+		"oAP": "\/dist\/img\/first-dance\/gallery\/5_2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/dist\/img\/first-dance\/gallery\/6.jpg": {
 		"ft": 16384,
-		"iS": 198392,
+		"iS": 66798,
 		"oA": 1,
 		"oAP": "\/dist\/img\/first-dance\/gallery\/6.jpg",
 		"oF": 0,
@@ -4758,9 +4828,19 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/dist\/img\/first-dance\/gallery\/6_2x.jpg": {
+		"ft": 16384,
+		"iS": 137382,
+		"oA": 1,
+		"oAP": "\/dist\/img\/first-dance\/gallery\/6_2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/dist\/img\/first-dance\/gallery\/7.jpg": {
 		"ft": 16384,
-		"iS": 170406,
+		"iS": 56523,
 		"oA": 1,
 		"oAP": "\/dist\/img\/first-dance\/gallery\/7.jpg",
 		"oF": 0,
@@ -4768,9 +4848,19 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/dist\/img\/first-dance\/gallery\/7_2x.jpg": {
+		"ft": 16384,
+		"iS": 102441,
+		"oA": 1,
+		"oAP": "\/dist\/img\/first-dance\/gallery\/7_2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/dist\/img\/first-dance\/gallery\/8.jpg": {
 		"ft": 16384,
-		"iS": 183732,
+		"iS": 51775,
 		"oA": 1,
 		"oAP": "\/dist\/img\/first-dance\/gallery\/8.jpg",
 		"oF": 0,
@@ -4778,11 +4868,31 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/dist\/img\/first-dance\/gallery\/8_2x.jpg": {
+		"ft": 16384,
+		"iS": 89364,
+		"oA": 1,
+		"oAP": "\/dist\/img\/first-dance\/gallery\/8_2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/dist\/img\/first-dance\/gallery\/9.jpg": {
 		"ft": 16384,
-		"iS": 169833,
+		"iS": 88457,
 		"oA": 1,
 		"oAP": "\/dist\/img\/first-dance\/gallery\/9.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/first-dance\/gallery\/9_2x.jpg": {
+		"ft": 16384,
+		"iS": 214997,
+		"oA": 1,
+		"oAP": "\/dist\/img\/first-dance\/gallery\/9_2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
