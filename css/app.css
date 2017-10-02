@@ -2302,7 +2302,7 @@ img.photo { border: 0.25rem solid #fff; box-shadow: 0 0.125rem 0.125rem 0 rgba(0
 
 .videoContainer--iframeWrapper#first-dance-video-embed { background: #fff url("/img/first-dance/video/video-thumb.jpg") center center/cover no-repeat; }
 
-#first-dance.first-dance .imageRow, #first-dance.first-dance .border4-555 { border: solid #555; border-width: 0 4px 4px; }
+#first-dance.first-dance .imageRow, #first-dance.first-dance .borderW4-555 { border: solid #555; border-width: 0 4px 4px; }
 
 #chapel-exit-video video { max-width: 100%; height: auto; }
 
