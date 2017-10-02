@@ -2334,6 +2334,8 @@ img.photo { border: 0.25rem solid #fff; box-shadow: 0 0.125rem 0.125rem 0 rgba(0
 
 .margin-XY { margin: 0.9375rem; }
 
+.borderW4-555 { border: 4px solid #555; }
+
 .borderTop-0 { border-top: 0; }
 
 .borderRight-0 { border-right: 0; }
@@ -2341,5 +2343,3 @@ img.photo { border: 0.25rem solid #fff; box-shadow: 0 0.125rem 0.125rem 0 rgba(0
 .borderBottom-0 { border-bottom: 0; }
 
 .borderLeft-0 { border-left: 0; }
-
-.borderW4-555 { border: 4px solid #555; }
