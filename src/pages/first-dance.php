@@ -21,79 +21,79 @@ body-class: first-dance
 		</div>
 	</div>
 </section>
-<div class="row text-center collapse">
-	<div class="medium-4 columns" style="border-bottom: 4px solid #555;">
+<div class="row text-center collapse" style="border-style: solid; border-color: #555; border-width: 0 4px 4px;">
+	<div class="medium-4 columns">
 		<img src="{{ cdn }}/img/first-dance/gallery/1.jpg" alt="Nico &amp; Corinne's First Dance">
 	</div>
-	<div class="medium-4 columns" style="border-bottom: 4px solid #555;">
+	<div class="medium-4 columns">
 		<img src="{{ cdn }}/img/first-dance/gallery/2.jpg" alt="Nico &amp; Corinne's First Dance">
 	</div>
-	<div class="medium-4 columns" style="border-bottom: 4px solid #555;">
+	<div class="medium-4 columns">
 		<img src="{{ cdn }}/img/first-dance/gallery/3.jpg" alt="Nico &amp; Corinne's First Dance">
 	</div>
 </div>
-<div class="row text-center collapse">
-	<div class="medium-4 columns" style="border-bottom: 4px solid #555;">
+<div class="row text-center collapse" style="border-style: solid; border-color: #555; border-width: 0 4px 4px;">
+	<div class="medium-4 columns">
 		<img src="{{ cdn }}/img/first-dance/gallery/4.jpg" alt="Nico &amp; Corinne's First Dance">
 	</div>
-	<div class="medium-4 columns" style="border-bottom: 4px solid #555;">
+	<div class="medium-4 columns">
 		<img src="{{ cdn }}/img/first-dance/gallery/5.jpg" alt="Nico &amp; Corinne's First Dance">
 	</div>
-	<div class="medium-4 columns" style="border-bottom: 4px solid #555;">
+	<div class="medium-4 columns">
 		<img src="{{ cdn }}/img/first-dance/gallery/6.jpg" alt="Nico &amp; Corinne's First Dance">
 	</div>
 </div>
-<div class="row text-center collapse">
-	<div class="small-12 columns" style="border-bottom: 4px solid #555;">
+<div class="row text-center collapse" style="border-style: solid; border-color: #555; border-width: 0 4px 4px;">
+	<div class="small-12 columns">
 		<img src="{{ cdn }}/img/first-dance/gallery/14.jpg" alt="Nico &amp; Corinne's First Dance">
 	</div>
 </div>
-<div class="row text-center collapse">
-	<div class="medium-4 columns" style="border-bottom: 4px solid #555;">
+<div class="row text-center collapse" style="border-style: solid; border-color: #555; border-width: 0 4px 4px;">
+	<div class="medium-4 columns">
 		<img src="{{ cdn }}/img/first-dance/gallery/7.jpg" alt="Nico &amp; Corinne's First Dance">
 	</div>
-	<div class="medium-4 columns" style="border-bottom: 4px solid #555;">
+	<div class="medium-4 columns">
 		<img src="{{ cdn }}/img/first-dance/gallery/8.jpg" alt="Nico &amp; Corinne's First Dance">
 	</div>
-	<div class="medium-4 columns" style="border-bottom: 4px solid #555;">
+	<div class="medium-4 columns">
 		<img src="{{ cdn }}/img/first-dance/gallery/9.jpg" alt="Nico &amp; Corinne's First Dance">
 	</div>
 </div>
-<div class="row text-center collapse">
-	<div class="medium-4 columns" style="border-bottom: 4px solid #555;">
+<div class="row text-center collapse" style="border-style: solid; border-color: #555; border-width: 0 4px 4px;">
+	<div class="medium-4 columns">
 		<img src="{{ cdn }}/img/first-dance/gallery/10.jpg" alt="Nico &amp; Corinne's First Dance">
 	</div>
-	<div class="medium-4 columns" style="border-bottom: 4px solid #555;">
+	<div class="medium-4 columns">
 		<img src="{{ cdn }}/img/first-dance/gallery/11.jpg" alt="Nico &amp; Corinne's First Dance">
 	</div>
-	<div class="medium-4 columns" style="border-bottom: 4px solid #555;">
+	<div class="medium-4 columns">
 		<img src="{{ cdn }}/img/first-dance/gallery/12.jpg" alt="Nico &amp; Corinne's First Dance">
 	</div>
 </div>
-<div class="row text-center collapse">
-	<div class="small-12 columns" style="border-bottom: 4px solid #555;">
+<div class="row text-center collapse" style="border-style: solid; border-color: #555; border-width: 0 4px 4px;">
+	<div class="small-12 columns">
 		<img src="{{ cdn }}/img/first-dance/gallery/15.jpg" alt="Nico &amp; Corinne's First Dance">
 	</div>
 </div>
-<div class="row collapse text-center">
-	<div class="medium-4 columns" style="border-bottom: 4px solid #555;">
+<div class="row collapse text-center" style="border-style: solid; border-color: #555; border-width: 0 4px 4px;">
+	<div class="medium-4 columns">
 		<img src="{{ cdn }}/img/first-dance/gallery/16.jpg" alt="Nico &amp; Corinne's First Dance">
 	</div>
-	<div class="medium-4 columns" style="border-bottom: 4px solid #555;">
+	<div class="medium-4 columns">
 		<img src="{{ cdn }}/img/first-dance/gallery/17.jpg" alt="Nico &amp; Corinne's First Dance">
 	</div>
-	<div class="medium-4 columns" style="border-bottom: 4px solid #555;">
+	<div class="medium-4 columns">
 		<img src="{{ cdn }}/img/first-dance/gallery/18.jpg" alt="Nico &amp; Corinne's First Dance">
 	</div>
 </div>
-<div class="row collapse text-center">
-	<div class="medium-4 columns" style="border-bottom: 4px solid #555;">
+<div class="row collapse text-center" style="border-style: solid; border-color: #555; border-width: 0 4px 4px;">
+	<div class="medium-4 columns">
 		<img src="{{ cdn }}/img/first-dance/gallery/19.jpg" alt="Nico &amp; Corinne's First Dance">
 	</div>
-	<div class="medium-4 columns" style="border-bottom: 4px solid #555;">
+	<div class="medium-4 columns">
 		<img src="{{ cdn }}/img/first-dance/gallery/20.jpg" alt="Nico &amp; Corinne's First Dance">
 	</div>
-	<div class="medium-4 columns" style="border-bottom: 4px solid #555;">
+	<div class="medium-4 columns">
 		<img src="{{ cdn }}/img/first-dance/gallery/21.jpg" alt="Nico &amp; Corinne's First Dance">
 	</div>
 </div>
