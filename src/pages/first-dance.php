@@ -21,7 +21,7 @@ body-class: first-dance
 		</div>
 	</div>
 </section>
-<div class="expanded row text-center collapse">
+<div class="row text-center collapse">
 	<div class="medium-4 columns" style="border-bottom: 4px solid #555;">
 		<img src="{{ cdn }}/img/first-dance/gallery/1.jpg" alt="Nico &amp; Corinne's First Dance">
 	</div>
@@ -32,7 +32,7 @@ body-class: first-dance
 		<img src="{{ cdn }}/img/first-dance/gallery/3.jpg" alt="Nico &amp; Corinne's First Dance">
 	</div>
 </div>
-<div class="expanded row text-center collapse">
+<div class="row text-center collapse">
 	<div class="medium-4 columns" style="border-bottom: 4px solid #555;">
 		<img src="{{ cdn }}/img/first-dance/gallery/4.jpg" alt="Nico &amp; Corinne's First Dance">
 	</div>
@@ -43,12 +43,12 @@ body-class: first-dance
 		<img src="{{ cdn }}/img/first-dance/gallery/6.jpg" alt="Nico &amp; Corinne's First Dance">
 	</div>
 </div>
-<div class="expanded row text-center collapse">
+<div class="row text-center collapse">
 	<div class="small-12 columns" style="border-bottom: 4px solid #555;">
 		<img src="{{ cdn }}/img/first-dance/gallery/14.jpg" alt="Nico &amp; Corinne's First Dance">
 	</div>
 </div>
-<div class="expanded row text-center collapse">
+<div class="row text-center collapse">
 	<div class="medium-4 columns" style="border-bottom: 4px solid #555;">
 		<img src="{{ cdn }}/img/first-dance/gallery/7.jpg" alt="Nico &amp; Corinne's First Dance">
 	</div>
@@ -59,7 +59,7 @@ body-class: first-dance
 		<img src="{{ cdn }}/img/first-dance/gallery/9.jpg" alt="Nico &amp; Corinne's First Dance">
 	</div>
 </div>
-<div class="expanded row text-center collapse">
+<div class="row text-center collapse">
 	<div class="medium-4 columns" style="border-bottom: 4px solid #555;">
 		<img src="{{ cdn }}/img/first-dance/gallery/10.jpg" alt="Nico &amp; Corinne's First Dance">
 	</div>
@@ -70,12 +70,12 @@ body-class: first-dance
 		<img src="{{ cdn }}/img/first-dance/gallery/12.jpg" alt="Nico &amp; Corinne's First Dance">
 	</div>
 </div>
-<div class="expanded row text-center collapse">
+<div class="row text-center collapse">
 	<div class="small-12 columns" style="border-bottom: 4px solid #555;">
 		<img src="{{ cdn }}/img/first-dance/gallery/15.jpg" alt="Nico &amp; Corinne's First Dance">
 	</div>
 </div>
-<div class="expanded row collapse text-center">
+<div class="row collapse text-center">
 	<div class="medium-4 columns" style="border-bottom: 4px solid #555;">
 		<img src="{{ cdn }}/img/first-dance/gallery/16.jpg" alt="Nico &amp; Corinne's First Dance">
 	</div>
@@ -86,7 +86,7 @@ body-class: first-dance
 		<img src="{{ cdn }}/img/first-dance/gallery/18.jpg" alt="Nico &amp; Corinne's First Dance">
 	</div>
 </div>
-<div class="expanded row collapse text-center">
+<div class="row collapse text-center">
 	<div class="medium-4 columns" style="border-bottom: 4px solid #555;">
 		<img src="{{ cdn }}/img/first-dance/gallery/19.jpg" alt="Nico &amp; Corinne's First Dance">
 	</div>
