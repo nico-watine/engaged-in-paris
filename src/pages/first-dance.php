@@ -21,7 +21,7 @@ body-class: first-dance
 		</div>
 	</div>
 </section>
-<div class="row imageRow text-center collapse">
+<div class="row border4-555 text-center collapse">
 	<div class="medium-4 columns">
 		<img src="{{ cdn }}/img/first-dance/gallery/1.jpg" alt="Nico &amp; Corinne's First Dance">
 	</div>
