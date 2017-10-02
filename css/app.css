@@ -2333,3 +2333,5 @@ img.photo { border: 0.25rem solid #fff; box-shadow: 0 0.125rem 0.125rem 0 rgba(0
 .margin-Y { margin: 0.9375rem 0; }
 
 .margin-XY { margin: 0.9375rem; }
+
+.borderW4-555 { border: 4px solid #555; }
